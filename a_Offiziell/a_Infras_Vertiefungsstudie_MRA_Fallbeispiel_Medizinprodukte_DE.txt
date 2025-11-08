@@ -1,0 +1,2024 @@
+Im Auftrag des Staatssekretariats für Wirtschaft
+Vertiefungsstudie MRA
+Fallbeispiel Medizinprodukte
+Schlussbericht
+Zürich, 14. Februar 2025
+Martin Eichler, Luca Apreda, Cyrill Delavy, Anna
+Thomas von Stokar
+INFRAS
+Forschung und Beratungwww. infras. ch
+
+<
+(SECO)
+Vettori, Sophie Kaufmann,
+
+Impressum
+Vertiefungsstudie MRA
+Fallbeispiel Medizinprodukte
+Schlussbericht
+Zürich, 14. Februar 2025
+Auftraggeber
+Im Auftrag des Staatssekretariats für Wirtschaft (SECO)
+Projektleitung
+Martin Eichler
+Autorinnen und Autoren
+Martin Eichler, Luca Apreda, Cyrill Delavy, Anna Vettori,
+Thomas von Stokar
+INFRAS, Binzstrasse 23, 8045 Zürich
+Tel. +41 44 205 95 95
+info@infras. ch
+
+Sophie Kaufmann,
+
+|3
+Inhalt
+Zusammenfassung _____________________________________________________________
+1. Einleitung_____________________________________________________________
+1.1. Ausgangslage___________________________________________________________
+1.2. Ziel und methodisches Vorgehen ___________________________________________
+2. Ausgangslage Medizinprodukte ___________________________________________
+2.1. Medizinproduktebranche in der Schweiz
+2.2. Wirkungsmodell Nicht-Aktualisierung des
+3. Auswirkungen auf Unternehmen in der
+3.1. Kosten für Schweizer Hersteller ___________________________________________
+3.1.1. Unterschiede in den Kosten zwischen den
+3.1.2. Weitere Aussagen zu Exportvolumen, Marktposition
+3.2. Kosten für Schweizer Händler/Importeure
+3.2.1. Unterschiede in den Kosten zwischen den
+3.2.2. Weitere Aussagen zu Importvolumen, Marktposition
+3.3. Hochrechnung der Kosten für die Gesamtbranche
+3.3.1. Kosten in Relation zum Umsatz____________________________________________
+3.3.2. Kosten der Gesamtbranche_______________________________________________
+3.3.3. Unterschiedliche Kostenbelastungen _______________________________________
+3.3.4. Vergleich der Ergebnisse mit anderen Studien
+3.4. Auswirkungen auf Investitionsund Standortentscheide
+3.4.1. Befunde auf Seiten Hersteller _____________________________________________
+3.4.2. Befunde auf Seiten Händler ______________________________________________
+4. Auswirkungen auf verwandte Wirtschaftsbereiche
+4.1. Diagnostikindustrie_____________________________________________________
+4.2. Konformitätsbewertungsstelle SQS ________________________________________
+4.3. Apotheken____________________________________________________________
+INFRAS | 14. Februar 2025 | Inhalt
+
+____________________________________ 10
+MRA_______________________________ 12
+Medizintechnik _______________________ 16
+Herstellern__________________________ 20
+und Beschäftigung ___________ 21
+___________________________________ 23
+Händlern/Importeuren ________________ 26
+und Beschäftigung ___________ 27
+_____________________________ 27
+________________________________ 32
+________________________ 33
+___________________________ 36
+
+4|
+5. Auswirkungen in der öffentlichen Verwaltung
+5.1. Zuständigkeiten________________________________________________________
+5.2. Verwaltungseffizienz und -qualität _________________________________________
+5.2.1. Wegfall der Zusammenarbeit im Vollzug
+5.2.2. Eingeschränkte Beteiligung bei Weiterentwicklung
+5.2.3. Zusätzlicher Verwaltungsaufwand _________________________________________
+5.2.4. Quantifizierung der zusätzlichen Verwaltungskosten
+6. Patientenund Versorgungssicherheit _____________________________________
+7. Gesamtbeurteilung/Fazit________________________________________________
+Annex _____________________________________________________________________
+A1. Sample Unternehmensbefragung __________________________________________
+A2. Liste der interviewten Fachpersonen _______________________________________
+Abbildungsverzeichnis _________________________________________________________
+Tabellenverzeichnis ___________________________________________________________
+Literatur ____________________________________________________________________
+INFRAS | 14. Februar 2025 | Inhalt
+
+_______________________________ 39
+mit der EU ___________________________ 40
+des Regulierungssystems _______ 42
+___________________________ 44
+
+|5
+Zusammenfassung
+Das Mutual Recognition Agreement (MRA) zwischenzum Abbau technischer Handelshemmnisse. Der
+wozu auch die Medizinprodukte gehören. Mit der
+(Medical Device Regulation, MDR, per 21. Mai 2021
+per 26. Mai 2022) wäre eine Aktualisierung des Abkommenskeit zu erhalten. Dies erfolgte jedoch nicht. Die Auswirkungen
+MRA und die daraus entstehenden zusätzlichentersuchung. Hauptquelle für die Analyse sind Daten
+mit betroffenen Unternehmen. Komplementär hatnen aus den betroffenen Bereichen, mit Branchenverbänden
+Dabei zeigt sich klar, dass die Nicht-Aktualisierung
+Unternehmen Kosten verursacht, wobei die Höhesich einmalige Kosten von 0.3% bis 0.7% des Export-Umsatzes
+von 0.6% bis 0.7% des Import-Umsatzes bei Händlern/Importeuren.
+Aufwendungen werden auf 0.10% bis 0.14% beiden Händlern geschätzt. Bei einer differenzierten
+kleine und mittlere Unternehmen stärker betroffen
+Verlagerungstendenzen bei den Herstellern. Es giltchen Unsicherheiten behaftet sind. Ein kleines Sample
+tig sehr heterogenen Auswirkungen wie auch dieeines Selbstselektionsbias bei der freiwilligen Teilnahme
+auch wenn dafür keine konkreten Hinweise für derartige
+Bei der öffentlichen Hand ist insbesondere Swissmedicrung des MRA betroffen. Dabei sind Einbussen in
+merken. Die Nicht-Aktualisierung des MRA hat zudemund zu Portfoliobereinigungen geführt. Weggefallene
+spätestens mittelfristig anderweitig substituiert
+Insgesamt haben sich sowohl die Schweizerfür Medizinprodukte und die Regulierungsbehörden
+Inkaufnahme der notwendigen Mehraufwendungen.
+lierungsqualität, Patientenund Versorgungssicherheitdem mit der Zeit Wege, um die Kosten zu reduzieren,
+sondere kleinere Hersteller von Medizinprodukten,
+INFRAS | 14. Februar 2025 | Zusammenfassung
+
+der Schweiz und der EU ist ein Instrument
+Vertrag umfasst mehrere Produktebereiche,
+Revision der Medizinprodukteregulierungund In Vitro Diagnostics Regulation, IVDR,
+nötig gewesen, um seine Gültigder Nicht-Aktualisierung des
+Kosten sind Gegenstand der vorliegenden Unaus strukturierten persönlichen Interviews
+INFRAS weitere Interviews mit Fachpersosowie der Verwaltung geführt.
+des MRA beinahe bei allen befragtender Kosten stark variiert. Im Schnitt ergeben
+bei Schweizer Herstellern und
+Die laufenden jährlichenden Herstellern respektive 0.3% bis 0.4% bei
+Betrachtung der Effekte zeigt sich, dasssind. Zudem gibt es Hinweise auf gewisse
+zu beachten, dass die Resultate mit erheblibetroffener Unternehmen bei gleichzeiGefahr strategischen Antwortverhaltens undsind Quellen für diese Unsicherheit,
+Probleme vorliegen.
+erheblich von der Nicht-Aktualisieder Verwaltungseffizienz und -qualität zu bezu einer gewissen Marktkonsolidierung
+Produkte konnten jedoch in der Regelwerden.
+Medizinproduktehersteller wie auch der Marktmit der neuen Situation arrangiert, unter
+Kritische Entwicklungen im Bereich Reguwurden nicht festgestellt. Man fand zuauch wenn für einzelne Akteure, insbeweiterhin relevante Mehrkosten anfallen.
+
+6|
+1. Einleitung
+1.1. Ausgangslage
+Das Abkommen über die gegenseitige Anerkennung
+Recognition Agreement, MRA) zwischen der Schweizlen I. Es fungiert als Instrument zum Abbau technischer
+che Marktzutrittsbedingungen für die im Abkommenleisten, einen einheitlichen Markt zu schaffen und
+Der Vertrag umfasst mehrere Produktebereiche,
+Anlässlich verschiedener gesundheitsschädigender
+Medizinprodukten hat die EU beschlossen, ihre Medizinprodukteregulierungerfolgte mit der Medical Device Regulation (MDR)
+(IVDR), welche seit 21. Mai 2021 respektive seitregeln die Inverkehrbringung von Medizinund In-vitro-Diagnostikprodukten
+als dies zuvor der Fall war.1 Unter anderem ist derrung umfassender mit beispielsweise dem Einbezug
+oder Desinfektion anderer Medizinprodukte, fordertzyklus orientierten Sicherheitsansatz, erhöht die
+die UDI (Unique Device Identifier) ein, um die Produkteidentifizierungcherzustellen. Mit der MDR und IVDR müssen die
+ment über den ganzen Produktionszyklus sicherstellenmentsystem (z. B. für die Überwachung der Produkte
+Die Schweiz vollzog per 26. Mai 2021 respektivedukteverordnung (MepV) (siehe Swissmedic, 2021)
+tika (IvDV) die Anpassung der Regulierung des Medizinproduktemarktes
+Form wie die EU. In der Schweiz gelten die Regulierungen
+Aus rechtlicher Sicht erfordert die Revisionnur die Umsetzung der gleichen Regulierung in
+rung des im MRA geregelten Kapitels über Medizinprodukte
+Regulierung. Derartige Aktualisierungen im MRA
+1 Siehe z. B. https://www. vde. com/topics-de/health/beratung/die-eu-medizinprodukteverordnung-mdr-was-aendertsich#:~:text=Die%20europ%C3%A4ische%20Verordnung%20%C3%BCber%20Medizinprodukte, Mai%202021.
+am 17.12.2024] oder https://www. johner-institut. de/blog/regulatory-affairs/medical-device-regulation-mdr-medizinprodukteverordnung/ [zuletzt aufgerufen am 17.12.2024].
+2 Siehe https://www. bag. admin. ch/bag/de/home/medizin-und-forschung/heilmittel/revision-med-prod-verordmepv. html#:~:text=Die%20Schweiz%20wird%20daher%20von, Schweiz%20und%20der%20EU%20weg.
+16.12.2024].
+3 Siehe https://eur-lex. europa. eu/legal-content/EN/TXT/? uri=CELEX%3A02002A0430%2805%29-20171222
+am 13.01.2024].
+INFRAS | 14. Februar 2025 | Einleitung
+
+von Konformitätsbewertungen (Mutualund der EU ist Bestandteil der BilateraHandelshemmnisse, um möglichst gleienthaltenen Produktsektoren zu gewähreine effiziente Versorgung zu ermöglichen.
+wozu auch die Medizinprodukte gehören.
+Vorkommnisse im Zusammenhang mitzu revidieren. Dies
+sowie die In Vitro Diagnostics Regulation
+26. Mai 2022 anwendbar sind. MDR und IVDR
+in der EU strikter,
+Anwendungsbereich mit der neuen Reguliealler Produkte zur Reinigung, Sterilisationdie Verordnung einen am ProduktlebensAnforderungen an benannte Stellen oder führtund -rückverfolgung siHersteller unter anderem ein Risikomanageund benötigen ein Qualitätsmanageim Markt).
+per 26. Mai 2022 mit der Medizinpround der Verordnung über In-vitro-Diagnosebenfalls in gleicherals äquivalent.2
+der Medizinprodukteregulierung jedoch nichtder Schweiz, sondern erfordert eine Aktualisiezur Anerkennung der Äquivalenz der
+erfolgten zuletzt im Jahr 20173, seither
+[zuletzt aufgerufen
+[zuletzt aufgerufen am
+[zuletzt aufgerufen
+
+|7
+erfolgten keine Aktualisierungen mehr. Seitensschritte beim institutionellen Abkommen (InstA)
+sprechende Fortschritte nicht feststellte, wurdemit dem Inkrafttreten der Medical Device Regulation
+gulation (IVDR) nicht aktualisiert.
+Die Schweiz wird daher seitens der EU als Drittstaat
+26. Mai 2021 für die Medizinprodukte bzw. seit
+Medizinprodukte auf den jeweiligen nationalen
+Handelsabkommen zwischen der EU und der Schweiz.
+gen gelten nicht mehr, wobei die Schweiz durchterungen bei der Einfuhr schaffen konnte.5 – In verschiedenen Studien wurden neben den
+volkswirtschaftlichen Auswirkungen des MRA bereits
+2015 und 2025, KOF 2015). Im Rahmen dieser Arbeitenund der im Einzelnen hinter dem Nutzen stehenden
+Arbeiten stellen vorrangig auf Einschätzungen undverbände sowie eine makroökonomische Perspektive
+punkt gezwungenermassen auf einer nur hypothetischen
+(2025) hat, mit einem vergleichbaren vorgehen wietualisierung des MRA auf dauerhaft 0.436% des
+Händler beträgt die Schätzung 0.260%. Unter Berücksichtigung
+H (2008) geschätzten 0.5%-1% des Produktwertszwischen 2018 und 2035 eine Reduktion des realen
+konnte indes mit einer ökonometrischen Analyse
+MRA nachweisen. Alle genannten Berechnungenprodukte, sondern auf alle unter das MRA fallenden
+die Kosten des Wegfalls von Handelsaktivitäten
+4 Siehe https://health. ec. europa. eu/document/download/b047f611-20a5-48a0-8d67-e8b4d9d3b8db_en
+18.12.2024].
+5 Hierzu gehören Übergangsfristen für die Ernennung von Bevollmächtigtenlenz der Schweizer Bestimmungen mit denjenigen der EU (Abteilung
+min. ch/bag/de/home/medizin-und-forschung/heilmittel/revision-med-prod-verordmepv. html#:~:text=Die%20Schweiz%20wird%20daher%20von, Schweiz%20und%20der%20EU%20weg.
+16.12.2024].
+6 D. h. ein Abkommen erhöht die Wahrscheinlichkeit, dass Produkteresp. das Handelsvolumen erhöht wird (siehe z. B. KOF 2015).
+INFRAS | 14. Februar 2025 | Einleitung
+
+der EU sind weitere Aktualisierungen an Fortgeknüpft worden (BAG, 2021). Da die EU entdas im MRA geregelte Medizinproduktekapitel
+(MDR) sowie der In Vitro Diagnostics Rebehandelt.4 Der Handel basiert seit demdem 26. Mai 2022 für die In-vitro-Diagnostika
+Regulierungen und den weiterhin bestehenden
+Die von den MRA gewährten ErleichterunAuffangmassnahmen punktuell gewisse Erleich- – anderen Abkommen der Bilateralen I dieuntersucht (BAK Economics 2015, Ecoplan
+war eine vertiefte Analyse des MRA
+Mechanismen jedoch nicht möglich: Die
+Umfragen der entsprechenden Branchenab, welche zudem zum damaligen ZeitBetrachtung basierten. Ecoplan
+2015, die Mehrkosten durch die Nicht-AkHandelswerts der Hersteller geschätzt. Für dieder durch Meier, N und Hertig,
+an Mehrkosten ohne MRA, hat BAK (2015)
+BIP um 0.7% berechnet. Das KOF (2015)
+einen sogenannten trade creation Effekt6 desbeziehen sich allerdings nicht auf die MedizinProdukte. Zudem berücksichtigen sie auchals Teil des Gesamteffekts.
+[zuletzt aufgerufen amin der Schweiz von EU-Herstellern und die ÄquivaEuropa, 2021). Siehe https://www. bag. ad-
+[zuletzt aufgerufen amüberhaupt gehandelt (importiert und exportiert) werden
+
+8|
+1.2. Ziel und methodisches Vorgehen
+Nun liegen erste Erfahrungen zu den Auswirkungen
+Handelshemmnissen vor.
+Ziel der Studie
+Ziel der Studie ist es, ein vertieftes Verständnis fürdes Abkommens über die gegenseitige Anerkennung
+Recognition Agreement, MRA) im Medizinproduktebereich
+Fehlens der Beseitigung technischer Handelshemmnissegewinnen. Dabei soll eine umfassende Sichtweise
+den verschieden involvierten Akteuren und Betroffenen
+Quantifizierung angestrebt, um die verschiedenen
+Hinblick auf die seit Dezember 2024 materiell abgeschlossenenbeitragen, deren Vorund Nachteile fundiert bewerten
+Abgrenzung und Untersuchungsgegenstand der
+Die Studie untersucht die Auswirkungen der Nicht-Aktualisierungprodukte auf Unternehmen, welche im Medizintechnikbereich
+seits höhere Kosten sowie andererseits geändertedem werden die Auswirkungen auf die staatlichen
+im Hinblick auf die Verwaltungseffizienz und -qualität,
+nen und die Funktionsweise des Medizinproduktemarkts
+Methodik
+Die Studie fokussiert explizit auf die Auswirkungen
+Medizinprodukte. Dies stellt eine besondere Herausforderung
+Entwicklungen mit den Effekten überlagern, die
+Produktregulierung im Bereich der Medizinprodukteder Wahl des methodischen Vorgehens Rechnung
+Um die Auswirkungen der Nicht-Aktualisierungvon den Auswirkungen der verschärften Regulierungen
+elle Interviews gesetzt, in denen die Frage der Kausalitättiert werden kann. Hauptquelle für Daten sind strukturierte
+nehmen, welche im Medizintechnikbereich tätig
+Fragenkatalog mit qualitativen und quantitativenfür qualitative Ergänzungen gelassen. Hierzu haben
+INFRAS | 14. Februar 2025 | Einleitung
+
+einer Wiedereinführung von technischendie Auswirkungen der Nicht-Aktualisierung
+von Konformitätsbewertungen (Mutualund somit die Auswirkungen des
+für die Schweizer Medtech-Branche zueingenommen werden und Auswirkungen bei
+erfasst werden. Wo möglich wird eine
+Effekte vergleichbar zu machen. Dies soll im
+Verhandlungen mit der EU dazuzu können.
+Studiedes MRA-Kapitels Medizintätig sind. Darunter fallen einerInvestitionsund Standortentscheide. ZuAkteure genauer betrachtet, insbesonderesowie die Folgen für die Konsument:ininsgesamt.
+der Nicht-Aktualisierung des MRA-Kapitelsdar, da sich die interessierenden
+sich aus der gleichzeitigen Verschärfung derergeben. Dem muss in der Analyse und bei
+getragen werden.
+des MRA-Kapitels Medizinprodukte explizittrennen zu können, wird auf individuvon Zusammenhängen explizit diskupersönliche Interviews mit Untersind. Dabei wurde jeweils ein standarisierter
+Fragen zugrunde gelegt, zudem jedoch Raumwir 14 Hersteller und 12 Händler befragt.
+
+|9
+Dabei haben wir berücksichtigt, dass Unternehmenche Produkteklassen darin enthalten sind. Nachteil
+kleineres Sample im Vergleich zu anderen Befragungsformenwahl der Unternehmen auch von ihrer Bereitschaft
+tät zur Gesamtheit an Unternehmen nicht erreichbar,
+schränkt. Weitere Herausforderungen stellen diestrategisches Antwortverhalten dar, da (manche)
+stimmten Wahrnehmung der Situation haben könnten.
+der Unternehmensbefragung; persönliche Interviewsdere Ansätze, durch die Gesprächsführung dies zumindest
+Komplementär hat INFRAS noch Interviewszinaltechnik, In-vitro-Diagnostik und Offizin-Apotheken
+und mit Branchenverbänden durchgeführt. Zudemdem Bundesamt für Gesundheit (BAG) geführt, um
+ser zu verstehen.
+Ergänzend zu den Interviews mit den betroffenensetzt. Dies erlaubt uns eine Übersicht über die Branche
+Basis für die Hochrechnung der erhobenen Unternehmenskostenüber hinaus verwenden wir Preisindizes in den betroffenen
+gen der Nicht-Aktualisierung auf den Preis zu untersuchen.
+zeitig aufgetretenen verschärften Regulierung könnenweise dem Wegfall des MRA zugeschrieben werden.
+INFRAS | 14. Februar 2025 | Einleitung
+
+unterschiedlicher Grösse und unterschiedlieines solchen Vorgehens ist, dass nur einmöglich ist. Da zudem die Auszur Teilnahme abhängt, ist Repräsentativiwas die Aussagekraft der Resultate einStichprobenauswahl sowie ein mögliches
+Unternehmen ein Eigeninteresse an einer beDies Problematik gilt für alle Formenbieten dabei mehr Möglichkeiten als anteilweise auffangen zu können.
+mit Fachpersonen aus den Bereichen der Medi-
+(d. h. Apotheken für Privatpersonen)
+haben wir Interviews mit Swissmedic unddie Auswirkungen auf die Verwaltung besAkteuren werden Datenanalysen eingein der Schweiz zu erhalten und dient alsauf die ganze Branche. DarProduktbereichen, um AuswirkunUnter anderem aufgrund der gleichetwaige Preisanstiege jedoch nur teil-
+
+10|
+2. Ausgangslage Medizinprodukte
+2.1. Medizinproduktebranche in
+Die Schweizer Medizintechnikbranche setzt sich
+1'583 Unternehmen zusammen, gemäss Swiss Medtechmehrheitlich (mehr als 50% des Umsatzes) in der
+sich 660 Unternehmen als Hersteller sowie 1'900
+kunft von Swiss Medtech). Die Differenz dürfte überwiegendnen beruhen; insbesondere fokussieren STATENT
+punkt eines Unternehmens, während eine Registrierung
+Abbildung 1 (Diagramm links) zeigt die Anteileder Unternehmen sind Kleinunternehmen mit bis
+der Unternehmen sind mittelgross (zwischen 50
+unternehmen und zählen über 250 VZÄ.
+Gemäss den betrachteten Daten von STATENT
+samt rund 30'000 Personen beschäftigt, was etwabei wird deutlich, dass Grossunternehmen rund
+stellen (siehe Abbildung 1 rechts). Gemäss der Branchenstudieträgt die Zahl der Beschäftigten rund 72'000 Personen
+Zulieferer, Handel und Vertrieb sowie Dienstleister.
+der von Swiss Medtech beträgt im Jahr 2023 insgesamtwinne) (Swiss Medtech, 2024). Damit wuchs der
+Jahren um etwa 6% pro Jahr und somit doppelt so
+Schweiz.
+Die Schweizer Medtech-Branche gehört zudemdie Medizintechnik in der Schweiz im Jahr 2023 das
+dungen.9 Die hohe Innovationskraft zeigt sich auchwelche Medtech-Unternehmen für Forschung und
+2024). Die Branche ist zudem sehr stark im internationalenportorientiert. Gemäss Daten des Bundesamts für
+7 Die Branchenstudie von Swiss Medtech berücksichtigt Unternehmenin der Medizintechnik umsetzen. Die Daten sind folglich nur beschränkt – Einheiten anhand von Haupttätigkeiten definiert als grössten Beitrag
+ordnet (siehe Ausführungen in «NOGA 2008 Allgemeine Systematik
+8 26.6 Herstellung von Bestrahlungsund Elektrotherapiegerätenmedizinischen und zahnmedizinischen Apparaten und Materialien.
+9 Siehe https://www. ige. ch/de/uebersicht-dienstleistungen/newsroom/news/news-ansicht? tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=news&tx_news_pi1%5Bnews%5D=2004&cHash=597ffcea3ca2db9439cce0798ec18909
+[zuletzt aufgerufen am 19.12.2024].
+INFRAS | 14. Februar 2025 | Ausgangslage Medizinprodukte
+
+der Schweizlaut Daten des BFS (STATENT) im Jahr 2022 aus
+(2024) sind rund 1'400 Unternehmen
+Medizintechnik tätig.7 Bei Swissmedic habenals Importeure registriert (per Juni 2024, Ausauf unterschiedlichen Definitiound Swiss Medtech auf den Tätigkeitsschwerbei Swissmedic immer nötig ist.
+der Unternehmen nach deren Grösse. 95%
+zu 49 Vollzeitäquivalent (VZÄ). Nur etwa 4%
+und 249 VZÄ) und etwas über 1% sind Gross-
+(NOGA 26.6 und NOGA 32.5)8 sind insge28'000 Vollzeitäquivalenten entspricht. Dadie Hälfte der Beschäftigten in der Branchevon Swiss Medtech (2024) beund inkludiert neben Herstellern auch
+Der Branchenumsatz der rund 800 Mitglieetwa CHF 23.4 Mrd. (inkl. ZwischengeUmsatz der Branche in den vergangenen zweistark wie das Bruttoinlandprodukt der
+zu den innovativsten in der Schweiz. So warführende Technologiefeld für Patentanmelin den hohen Anteilen am Gesamtumsatz,
+Entwicklung ausgeben (Swiss Medtech,
+Warenhandel vernetzt und stark exZoll und Grenzschutz (BAZG) wurden im Jahrund deren Beschäftigte vollständig, welche mehr als 50%
+vergleichbar mit der STATENT, welche institutionelle – zur Wertschöpfung der Einheit einer Klassifizierung zu- – der Wirtschaftszweige Einführung» vom BFS).
+und elektromedizinischen Geräten und 32.5 Herstellung von
+
+|11
+2023 Waren im Wert von ca. CHF 12 Mrd. exportiert,
+werden gemäss BAZG Medizinprodukte10 im Wertstammen etwas mehr als 54% aus der EU. Die Schweizer
+sehr wettbewerbsfähig, was sich neben dem Gesamthandelsüberschusslen Handelsüberschüssen der Schweiz zu wichtigen
+Deutschland zeigt (Swiss Medtech, 2024).
+Abbildung 1: Verteilung der Anzahl Unternehmentechnikbranche
+Anzahl Unternehmen Vollzeitäquivalente
+1%
+4%
+49%
+95%
+Unternehmen der Branchen mit NOGA 26.6 und 32.5 enthalten.
+Grafik INFRAS. Quelle: STATENT, BFS.
+Die Aufschlüsselung des Exportvolumens nach Unternehmensgrössezahl Beschäftigte) für das Jahr 2022 zeigt, dass 17%
+mittlere und 62% auf grosse Unternehmen zurückzuführen
+10 Die Abfrage der exportieren wie importieren Werte basiert auf
+Swiss Medtech gelistet sind (Swiss Medtech, 2024): 3005, 3006.1,
+3307.901, 3808.94, 3822, 4014, 4015.11, 6212.9091, 7015.1, 8419.2,
+9020, 9021, 9022 und 9402.
+11 Die Kategorisierung klein (bis 49), mittel (50 bis 249) und grossauf der Anzahl Beschäftigten anstatt auf Vollzeitäquivalente wie
+tierende Unternehmen (533 Unternehmen), nicht auf alle Unternehmenmen). Die Struktur der Unternehmen stellt sich in dieser Gruppe
+trägt 5% (anstatt 1% in Abbildung 1), mittlere Unternehmen machen
+95%) aus. Dies zeigt, dass es vor allem kleine Unternehmen sind,
+grosse Unternehmen häufig auch im Export aktiv sind.
+INFRAS | 14. Februar 2025 | Ausgangslage Medizinprodukte
+
+die Hälfte davon in die EU. In die Schweizvon etwa CHF 6 Mrd. eingeführt, davon
+Medtech-Unternehmen sind zudemauch an den bilateraHandelspartnern wie China, den USA undund Vollzeitäquivalente in der Medizin23%
+Klein (bis 49 VZÄ)
+Mittel (50-249 VZÄ)
+Gross (mehr als 250 VZÄ)
+28%
+Anzahl Institutionelle Einheiten = 1'583, Referenzjahr 2022.
+(Grössenklassen nach Andes Exportvolumens auf kleine, 21% aufist (BAZG, 2022).11
+den Zolltarifnummern, die in der Branchenstudie 2024 von
+3006.2, 3006.3, 3006.4, 3006.5, 3006.7, 3306.2, 3306.901,
+8713.9, 9001.3, 9001.4, 9001.5, 9003, 9004, 9018, 9019,
+(mehr als 250) für die Aufteilung der Exportvolumen basiert
+Abbildung 1. Zudem bezieht sich die Auswertung nur auf exporwie die Darstellung in Abbildung 1 (1'583 Unternehdaher auch anders dar: Die Anzahl grosser Unternehmen be12% (anstatt 4%) und kleine Unternehmen 83% (anstattwelche nur in der Schweiz aktiv sind, während mittlere und
+
+12|
+2.2. Wirkungsmodell Nicht-Aktualisierung
+Grundlage der Analyse ist ein Wirkungsmodell, daszüge und die Wirkungen aufzeigt, die sich aus der
+zinprodukte ergeben (vgl. Abbildung 2).
+Abbildung 2: Wirkungsmodell mit ersten Wirkungshypothesen
+Begriffserklärung im Wirkungsmodell
+MDR («Medical Device Regulation») & IVDR («In Vitro Diagnosticszintechnikund In-vitro-Diagnostikprodukte.
+MepV (Medizinprodukteverordnung) & IvDV (Verordnung über
+Schweiz betreffend Medizintechnikund In-vitro-Diagnostikprodukte.
+rungen.
+EC-Rep & CH-Rep: Bevollmächtigter in der EU respektive der Schweiz.
+vollmächtigten ernennen. In die Schweiz importierende Unternehmen
+Schweiz ernennen Der Bevollmächtigte vertritt den Hersteller inregulatorischen Vorgaben erfüllt sind und dient als Ansprechpartner
+Eudamed («European Database on Medical Devices»): Datenbankmission betrieben und von den EU-Mitgliedstaaten, bzw. den Wirtschaftsakteuren
+der Verwaltung von Medizinprodukten. Zudem soll die Datenbank
+UDI: «Unique Device Identification» ist die eindeutige Produkteidentifikationsnummer
+Grafik INFRAS.
+12 Siehe https://www. johner-institut. de/qm-systeme-und-rollen/bevollmaechtigter/
+Swissmedic (2023).
+13 Siehe https://www. johner-institut. de/blog/regulatory-affairs/eudamed/
+INFRAS | 14. Februar 2025 | Ausgangslage Medizinprodukte
+
+des MRA
+die betroffenen Akteure, die WirkungsbeNicht-Aktualisierung des MRA-Kapitels MediRegulation»): Die verschärfte EU-Regulierung über MediIn-vitro-Diagnostika): Die verschärften Regulierungen der
+Diese sind äquivalent mit den jeweiligen EU-RegulieExportierende Hersteller müssen in der EU einen Bemüssen dagegen einen Bevollmächtigten in derder EU respektive der Schweiz und prüft, ob die jeweiligen
+für nationale Behörden und Anwender. 12
+der EU für Medizinprodukte. Diese wird von der EU-Komgespeist. Eudamed dient unter anderemdie Marktüberwachung verbessern.13
+des Herstellers.
+[zuletzt aufgerufen am 18.12.2024] und
+[zuletzt aufgerufen am 18.12.2024].
+
+|13
+Wie im Kapitel Ausgangslage (siehe Abschnitt 1.1)
+Kapitel Medizinprodukte im MRA ab und behandeltals «Nicht-Aktualisierung» bezeichnet). Medtech-Unternehmen
+neu gewisse Anforderungen erfüllen,14 sie sehennissen gegenüber. Tabelle 1 gibt einen Überblick.
+schen Handelshemmnisse zu zusätzlichen Kosten
+Rückwirkungen auf deren Wettbewerbsfähigkeit,
+gen sowie ihre Innovationstätigkeit.
+Dabei muss zwischen Herstellern in der Schweiz,
+euren von Medizinprodukten in die Schweiz unterschiedenteils jedoch auch unterschiedlichen Hemmnissen
+«Hersteller» bezeichneten Schweizer Herstellersind für diejenigen Produkte, welche sie in die EU – fen die relevante Bezugsgrösse für das betroffene
+produkteexporte aus der Schweiz in die EU. Seitens
+Schweiz sind die Importeure betroffen, seien dies
+Tochtergesellschaften, selbständige Importeurefolgend kurz als «Händler» oder «Händler/Importeure»
+Importe in die Schweiz, unabhängig davon, ob sie
+14 Viele der relevanten Regelungen sind mit dem MDR/IVDR neu
+«wieder» erfüllt werden müssen, wenn sie bereits vor Inkrafttretensind jedoch mit dem MDR/IVDR neu hinzugekommen. Da zudem
+davon ausgegangen werden, dass nur noch wenig Strukturen, Knowhowwerden kann. Daher können alle Hemmnisse als neu angesehen
+15 Importe aus nicht-EU Staaten konnten zuvor ebenfalls vom MRA
+den und die dortigen Importbedingungen erfüllten. Dies dürfte beisein.
+INFRAS | 14. Februar 2025 | Ausgangslage Medizinprodukte
+
+erläutert, lehnt die EU die Aktualisierung desdie Schweiz als Drittstaat (nachfolgend kurz
+aus der Schweiz müssen dahersich zusätzlichen technischen HandelshemmGrundsätzlich können die zusätzlichen technibei den Unternehmen führen, mit möglichenihre Investitionsund Standortentscheidunwelche in die EU exportieren, und Importwerden, da sie sich teils ähnlichen,
+gegenübersehen. Die nachfolgend kurz alsvon Medizinproduktion mit Exporten in die EU
+exportieren, von diesen Hemmnissen betrofHandelsvolumen sind daher die Medizinder Importe von Medizinprodukten in diedirekt ausländische Hersteller oder deren – oder Schweizer Händler diese werden nachbezeichnet. Relevant sind dabei alle
+aus der EU stammen oder nicht.15
+hinzugekommen. Jedoch gilt für einen Teil auch, dass dieseder Bilateralen I 2002 erfüllt sein mussten. Viele Regelungen
+die früheren Regeln seit fast 20 Jahren nicht gültig waren, kannund Prozesse vorhanden sind, auf die zurückgegriffen
+werden.
+profitieren, wenn diese gleichzeitig in die EU importiert wurder überwiegenden Mehrheit der Importe der Fall gewesen
+
+14|
+Tabelle 1: Technische Handelshemmnisse nach
+Hersteller Händler
+Die Ernennung eines Bevollmächtigten (EC-REP) in Dieder EU Schweiz.
+Die Kennzeichnung der Produkte (i. e. NeuetikettieDierung mit Koordinaten des Bevollmächtigten). mit
+Die Pflicht zur Meldung von Vorkommnissen an Überprüfung,
+Swissmedic, für Hersteller mit in der Schweiz in Verdaskehr gesetzten Produkten. Vorschriften
+erklärungtätsbewertung
+Anerkennung.
+Konformitätsbewertung nur noch über EU-Stelle für Überprüfungjene Hersteller, welche ihre Produkte mit einer (Unique
+Schweizer Konformitätsbewertung in Verkehr geeure).
+bracht haben.
+Tabelle INFRAS.
+Von der Nicht-Aktualisierung sind auch die Schweizerin folgenden Bereichen keine Zusammenarbeit mit
+statt und es werden zusätzliche Marktüberwachungstätigkeiten
+▪ Kein Zugriff mehr auf EU-Datenbanken für Medizinprodukte
+Datenbank Eudamed, welche Daten für die Marktüberwachung
+Informationen aus Marktüberwachungstätigkeiten
+▪ Zusätzliche Kontrollen und Prozesse aufgrund
+Vollzug und Notwendigkeit der Beaufsichtigungmächtigten), um die Produktsicherheit in der
+währleisten;
+▪ Keine Teilnahme an den Arbeitsgruppen in derfehlende und verzögerte Informationen zu Regulierungsänderungen.
+Die Behörden können sich damit einem Mehraufwandschwieriger werden, eine qualitativ gleichwertige
+nen nicht mehr im gleichen Umfang und gleich zeitnah
+Als Folge der oben angeführten Entwicklungendukte in der Schweiz verändern, mit entsprechenden
+heitssystem und für die Patienten. Einerseits könnenfür die Produkte führen. Andererseits ist es auch
+Verfügung stehen, beispielsweise wenn sich einelohnt.
+INFRAS | 14. Februar 2025 | Ausgangslage Medizinprodukte
+
+untersuchten Wirtschaftsakteuren
+Ernennung eines Bevollmächtigten (CH-REP) in der
+Kennzeichnung der Produkte (i. e. Neuetikettierung
+Koordinaten des Bevollmächtigten). – ob das Produkt eine CE-Kennzeichnungdie Erfüllung der Anforderungen der sektoralen – signalisiert trägt und eine Konformitätsbeiliegt (für Händler). Separate Konformiin der Schweiz entfällt dank unilateraler
+der vom Hersteller zugewiesenen UDI
+Device Identification) (für Händler/ImportBehörden betroffen. Ganz konkret findetden entsprechenden EU-Institutionen mehr
+notwendig:
+und kein Zugriff auf die neuebereitstellt (unter anderem
+der EU);
+eingeschränkter Kooperation mit der EU imzusätzlicher Marktakteure (wie der BevollSchweiz auch ohne Zusammenarbeit zu geEU zur Weiterentwicklung der Regulierung,
+gegenübersehen, zudem kann es
+Arbeit zu liefern, da notwendige Informatiozur Verfügung stehen.
+kann sich auch der Markt für Medizinpromöglichen Konsequenzen im Gesundhöhere Aufwendungen zu höheren Kostenmöglich, dass Produkte gar nicht mehr zur
+Marktversorgung in der Schweiz nicht mehr
+
+|15
+Die Entwicklungen sind jedoch immer im Kontextgleichzeitig mit der Nicht-Aktualisierung des MRA
+der entsprechenden Märkte bzw. Produkte in Kraftgleichen Auswirkungen haben, aber wesentlich einflussreicher
+daher, die verschiedenen, innerhalb des Wirkungsmodellsquantifizieren, um ihre Bedeutung abwägen zu können
+flussfaktoren, insbesondre der Verschärfung der
+INFRAS | 14. Februar 2025 | Ausgangslage Medizinprodukte
+
+zu analysieren. Zentral dabei ist, dasseine deutliche Verschärfung der Regulierung
+getreten ist, welche in mancher Hinsicht diesein dürften. Nachfolgend gilt es
+dargestellten Wirkmechanismen zuund gleichzeitig gegenüber andere EinRegulierung, abzugrenzen.
+
+16|
+3. Auswirkungen auf Unternehmen
+Dieses Kapitel zeigt die Ergebnisse zu den Auswirkungenden Unternehmen in der Medizintechnik. In einem
+Analyse auf die Aussagen der befragten Unternehmenentstandenen Kosten. Wir unterscheiden dabei zwischen
+Händlern (vgl. Kapitel 3.2), da sich diese beidenhöhen gegenübersehen. Anschliessend werden in
+geschätzt, wiederum separat für die Hersteller und
+Kosten auf die Investitionsund Standortentscheide
+3.4.
+3.1. Kosten für Schweizer Hersteller
+Das Wirkungsmodell im Kapitel 2.2 hat die technischen
+Schweizer Medizintechnik-Unternehmen aufgrundwurden. Diese Handelshemmnisse verursachen
+sich einmalige Anpassungskosten und wiederkehrende
+Basis des Wirkungsmodells wurden fünf relevanteder fünften Kategorie «Weitere Kosten» all jene
+kategorien zugeordnet werden können (vgl. hierzuche bei den Unternehmen durch die Nicht-Aktualisierung
+auch durch Opportunitätskosten in Form von entgangenewerden. Darauf wird in Kapitel 3.1.2. eingegangen.
+Abbildung 3 zeigt die durchschnittlichen absolutenrie und insgesamt. Die Angaben basieren auf den
+bei jedem der 13 Hersteller, welche Auskunft gegeben
+Nicht-Aktualisierung des MRA entstanden. Das istrung des MRA grundsätzlich auf alle Hersteller auswirkt.
+Kosten pro Unternehmen erheblich. Ein Grund dafürmen sehr unterschiedliche Merkmale aufweisen,
+16 1 Hersteller hat keine Angaben zu quantitativen Grössen gemacht.
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+in der Medizintechnikder Nicht-Aktualisierung des MRA bei
+ersten Schritt erfolgen die Darstellung undzu den im Zuge der Nicht-Aktualisierung
+Herstellern (vgl. Kapitel 3.1) und
+Gruppen unterschiedlichen Kostenarten und -
+Kapitel 3.3 die Gesamtkosten für die Branchedie Händler. Inwiefern sich die gefundenen
+auswirken, ist Gegenstand des Kapitels
+Handelshemmnisse aufgezeigt, dieder Nicht-Aktualisierung wieder auferlegt
+Aufwand für die Unternehmen. Dabei lassen
+Kosten (pro Jahr) unterscheiden. Auf
+Kostenkategorien identifiziert, wobei unter
+Kosten fallen, die nicht den ersten vier KostenTabelle 1). Neben den direkten Kosten, welanfallen, können die Unternehmen
+Geschäftsmöglichkeiten belastet
+Kosten pro Hersteller je Kostenkatego13 der 14 befragten Herstellern.16 Dabei sindhaben, tatsächlich Kosten aufgrund der
+ein Indiz dafür, dass sich die Nicht-AktualisieAllerdings streuen die angegebenenkann sein, dass die befragten Unternehz. B. bzgl. ihrer Grösse.
+Medizintechnik
+
+|17
+Unsicherheiten der Aussagen dieser Studie
+Empirische Ergebnisse sind immer mit einer Unsicherheitinterpretiert werden. Die Ergebnisse dieser Studie
+interpretieren, da mehrere erschwerende Faktoren
+1) Aus erhebungstechnischen Gründen17 und umnehmen gering zu halten, konnte nur ein kleiner
+duktebranche befragt werden. Die Stichprobein der Branche soweit möglich.18 Mit einer Sampelgrösse
+ler/Importeure ist sie jedoch weder repräsentativ
+2) Die Teilnahme an der Befragung erfolgte freiwillig.
+ternehmen (18% (Hersteller) bzw. 12% (Händler)
+reit. Dies reduzierte die Sampelgrösse, beinhaltet
+Bias und strategischer Antworten. Für beides
+Anzeichen gefunden werden, dennoch sind
+3) Zudem konnten einige Kostenpunkte aus systematischender Informationen bei den Unternehmen20 nicht
+4) Die Unternehmen waren nicht immer bereit,
+trachtung der relativen Kostenbelastung bzw.
+ten entsprechende Umsatzgrössen geschätzt
+5) Die Befragung zeigt, dass die Unternehmensich in der hohen Varianz der Unternehmensantworten
+tig eine zentrale Herausforderung für die Analyseindividueller Situation der Unternehmen erheblich.
+probengrösse ist es daher kaum möglich, allgemeine
+Alle Ergebnisse dieser Analyse sind daher mit Vorsichtdass die Ergebnisse nicht ohne weiteres auf die
+Technisch bedeutet dies: Die Hochrechnungen basierenbust sind und daher empfindlich auf Abweichungen
+diese Studie eher einen informierenden als einen
+17 Z. B. mit persönlichen, vertieften Interviews, um der komplexen
+Rechnung zu tragen.
+18 In der Auswahl der befragten Unternehmen wurden der Typ (Händler,
+sche Kernbereich als Auswahlkriterien verwendet. Für weitere Kriterien
+19 Z. B. bei Unternehmen, die den Schweizer Markt verlassen haben.
+20 Wenn z. B. ein ausländischer Hersteller Kosten als integralen Teil
+REP des Herstellers), sind diese dem Händler/Importeuer nicht bekannt.
+nehmen buchhalterisch nicht getrennt erfasst werden. Schliesslich
+Neuerstellung der Konformitätsbescheinigung als Teil der Kosten
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+behaftet und müssen entsprechendsind jedoch mit ganz besonderer Vorsicht zu
+zusammenkommen:
+den administrativen Aufwand für die UnterTeil der Unternehmen der Medizinproberücksichtigt die Vielfalt der Unternehmenvon 14 Hersteller und 12 Händnoch statistisch belastbar.
+Nur ein kleiner Teil der angefragten Under Angefragten) war zu Auskünften beaber auch die Gefahr eines Self Selectionkonnten in den vertieften Interviews keine
+sie nicht völlig auszuschliessen.
+Gründen19 oder aufgrund fehlenerfasst werden.
+alle relevanten Daten zu teilen. Für die Bedie Hochrechnung der Gesamtkosten musswerden (vgl. hierzu 3.3).
+sehr unterschiedlich stark betroffen sind, waswiderspiegelt. Dies stellt gleichzeidar: Die Auswirkungen variieren je nach
+In Kombination mit der geringen StichMuster zu identifizieren.
+zu interpretieren. Konkret bedeutet dies,
+gesamte Branche übertragen werden können.
+auf Durchschnittskosten, die nicht rooder Ausreisser reagieren. Folglich haterklärenden Charakter.
+Situation mit parallelen Auswirkungen von MDR und MRA
+Hersteller), die Unternehmensgrösse und der medizinistanden keine Informationen zur Verfügung.
+seines Produktionsprozesses übernimmt (Labelling, ein CHDies kann auch gelten, wenn gewisse Kosten im Unterkönnen auch entgangene Umsätze während der Zeit derangesehen werden, deren Bestimmung ist jedoch schwierig.
+Medizintechnik
+
+18|
+Abbildung 3: Kosten der Nicht-Aktualisierung desin Tsd. CHF einmalig wiederkehrend
+1 1 0
+-
+Falls es Unternehmen nicht möglich war, die angefallenen Kostenwurden diese der Kostenkategorie «Weitere Kosten» zugeordnet.
+*Eine Anpassung der Konformitätsbewertung war nur bei 3 vonsehr hohe Kosten bei der «Anpassung der Konformitätsbewertung»,
+geschuldet sind (siehe für weitere Informationen Textkasten «Wechsel
+Einzelfalls wurden nicht miteingerechnet. Die abgebildeten Kostenler.
+Grafik INFRAS.
+Prima facie offenbart die Grafik für alle Kostenkategorienkehrende Kosten.
+Wechsel Konformitätsbewertungsstelle von CH
+Mit der Nicht-Aktualisierung des MRA werden diestelle SQS ausgestellten Konformitätsbescheinigungen
+ist eine Bescheinigung einer EU-Konformitätsbewertungsstelledazumal rund 500 Hersteller in der Medizintechnikbranche
+über eine EU-Konformitätsbescheinigungen, jedoch
+Betroffenen ein Wechsel zu einer EU notifizierten
+In den Unternehmensgesprächen waren dreinem Fall war der Wechsel mit sehr hohen Kosten
+Belastung des Unternehmens, aber ebenfalls in Relation
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+MRA pro Hersteller nach Kostenkategorie
+(pro Jahr)
+5 4
+in die abgefragten Kostenkategorien auszudifferenzieren,
+14 Herstellern notwendig. Einer der drei Hersteller hattewelche der speziellen Situation dieses Unternehmen
+Konformitätsbewertungsstelle»). Die Kosten diesesentsprechen dem Durchschnitt der restlichen 13 Herstelhöhere einmalige als jährlich wieder- – zu EU Einzelfall
+von der Schweizer Konformitätsbewertungsin der EU nicht mehr anerkannt. Somitnotwendig. Die Mehrheit der
+in der Schweiz verfügten bereitswar für rund 50 Hersteller oder 10% der
+Stelle erforderlich (Swiss Medtech, 2024).
+der 14 Unternehmen davon betroffen. In ei- – verbunden sehr hoch sowohl in Bezug derzu allen anderen erhobene
+Medizintechnik
+
+|19
+Kostenangaben. Bei den anderen beiden Unternehmengleich mit anderen genannten Kostenarten nicht
+spräch, dass es sich um eine eher ungewöhnliche
+Wir gehen daher in Abstimmung mit der Auftraggeberineine Ausnahmesituation handelt. Die Kostenangaben
+malig und wiederkehrend) von diesem Unternehmensowie den nachfolgenden Darstellungen und Berechnungen
+zu den anderen Kostenarten von diesem Unternehmen
+Gefahr einer gewissen Unterschätzung der Kosten;
+nes einzelnen Unternehmens, von dem zudem seiensamtergebnisse dominiert.
+Wird nachfolgend noch auf diesen spezifischenrechnungen oder Darstellungen berücksichtigt, wird
+Ernennung EC-REP
+Die einmaligen und wiederkehrenden Ausgaben
+EC-REP stellen deutlich den grössten Kostenblockan, Kosten für die Ernennung und Aufrechterhaltung
+nehmen eine Tochtergesellschaft in der EU hat,
+dernfalls Externe. Beide Wege sind mit Zusatzkostenterviews deuten jedoch darauf hin, dass die Bevollmächtigung
+gleich zur Bevollmächtigung eines Externen zu tieferen
+Tochtergesellschaft keine wiederkehrende Beitragskostenbestehende Prozesse integriert werden kann. Zudem
+tualisierung den Entscheid, die Vertriebszentrale
+Tsd. pro Unternehmen machen die Kosten im Zusammenhang
+REPs rund 55% an den gesamten einmaligen Kostenten macht der EC-REP sogar 80% der gesamten wiederkehrenden
+eines EC-REPs ist somit klar die kostenintensivstedie Unternehmen, sieht man vom Einzelfall ab, in
+tung zu erheblichen Kosten geführt hat.
+21 Die übrigen Unternehmen konnten diese nicht beziffern. Dies kannmen in der EU diese Funktion im Rahmen der laufenden administrativen
+jedem Fall gewisse Kosten an, diese sind dem Unternehmen jedochdiese Unternehmen die Kosten nicht separat beziffern konnten und
+sächlichen Kosten könnten somit noch höher liegen. Dies gilt analog – züglich EU-REP nicht bei allen Kostenarten jedem Unternehmen
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+hingegen waren die Kosten im Verdominant. Zudem wissen wir aus dem GeKonstellation bei dem Unternehmen handelt.
+davon aus, dass es sich hier umfür die neue Konformitätsbewertung (einwerden daher in der obigen Abbildung 3
+nicht berücksichtigt (die Angabenfliessen jedoch ein). Damit besteht die
+anderenfalls hätten jedoch die Angaben eispezielle Situation bekannt ist, die GeFall eingegangen oder diese Zahlen in Bedies als «Einzelfall» bezeichnet.
+für die Ernennung und Aufrechterhaltung desdar. Zudem gaben 10 von den 13 Herstellern
+des EC-REPs zu haben.21 Falls ein Unterwurde in der Regel diese bevollmächtigt, anfür die Unternehmen verbunden. Die Inder Tochtergesellschaft im Verwiederkehrenden Kosten führt, da derentrichtet werden müssen und es in
+beschleunigte in einem Fall die Nicht-Akins Ausland zu verlagern. Mit einmalig CHF 94
+mit der Ernennung eines ECaus. Bei den jährlich wiederkehrenden KosKosten aus. Die Notwenigkeit
+Folge der Nicht-Aktualisierung des MRA fürdem die Anpassung der Konformitätsbewerbeispielsweise der Fall sein, wenn ein TochterunternehTätigkeiten übernimmt. Auch in diesem Fall fallen innicht als Einzelposition bekannt. Ebenso ist es möglich, dass
+sie daher in den «weiteren Kosten» enthalten sind. Die tat- – auch für die übrigen Kostenarten, wobei anders als beauf jeden Fall gewisse Kosten entstehen.
+Medizintechnik
+
+20|
+Die übrigen Kostenkategorien
+Die Nicht-Aktualisierung erfordert auch die Berücksichtigungduktkennzeichnung. Die Prozessund Materialanpassungen
+Kosten. Von nennenswerten laufenden Kosten kann
+Dies liegt daran, dass der Hauptaufwand in der einmaligenzesses liegt. Die zusätzliche Berichtsund Dokumentationspflichten
+weder einmalig oder wiederkehrend.
+Die einmaligen Kosten der «Anpassung der Konformitätsbewertung»
+rigen Unternehmen, welche bereits bei einer EU-Stellekeine Kosten. Auch die beiden Unternehmen, die
+seln mussten, geben diesbezüglich an, nur geringederen Nicht-Aktualisierungs-bedingten Kosten für
+Es akkumulieren sich jedoch zahlreiche weiteretualisierung verursachte Kostenpunkte zu einem
+«Weitere Kosten». Die dieser Kategorie zugeordneten
+Aktualisierung für einen der 14 Hersteller ausschlaggebendzu verlagern. Diese Verlagerung war mit hohen einmaligen
+einen hiesigen Arbeitsplatzabbau im mittleren zweistelligention Aufwendungen im Zusammenhang mit externen
+managements, Risikoanalysen, regulatorischen Mitarbeiterschulungenveillance, meist jedoch nur bei einzelnen Unternehmen.
+weiteren Kosten pro Unternehmen im Umfang vongesamten einmaligen Kosten ausmachen.
+3.1.1. Unterschiede in den Kosten zwischen
+Abbildung 4 zeigt Boxplots für die Herstellern durchschnittlich
+Damit soll ein Eindruck über die Verteilung der einmaligenschnittlichen totalen Kosten vermittelt werden.
+wähnt, variieren die einem Unternehmen angefallenen
+Variation wird insbesondere für die einmaligen Durchschnittskosten
+50% der Unternehmen haben Durchschnittskosten,
+25% der Unternehmen betragen die einmaligen
+Tsd. Zudem ist klar ersichtlich, dass die Durchschnittskostendian sind. Dies verweist auf die asymmetrische Verteilung
+nige hohe Werte ziehen den Durchschnitt der totalenweise nur 4 der 13 Angaben oberhalb des Mittelwerts).
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+neuer Vorschriften bei der Proverursachten moderate einmaligeherstellerseitig nicht berichtet werden.
+Anpassung des Etikettierungsproverursachen kaum Kosten,
+erzeugten bei den übihre Konformität bewerten liessen,
+auf eine EU-Konformitätsbewertung wechKosten zu haben, die im Vergleich zu den ansie nicht stark ins Gewicht fallen. – – meistens einmalige durch die Nicht-Aksubstanziellen Wert in der Kostenkategorie
+Kosten sind heterogen. So war die Nichtdafür, seine Produktion ins Ausland
+Kosten verbunden und bedeutete
+Bereich. Zudem umfasst die PosiBeratungen, der Anpassung des Qualitätssowie Post-Market SurHieraus speisen sich die einmaligenrund CHF 55 Tsd., die rund einen Drittel der
+den Herstellernentstandenen totalen Kosten.
+wie der wiederkehrenden durchDenn wie bereits eingangs dieses Kapitels erdurchschnittlichen Kosten stark. Diese
+(linker Boxplot) ersichtlich:
+die kleiner CHF 65 Tsd. (Median) sind. Für
+Durchschnittskosten zwischen CHF 15 und 65
+(CHF 168 Tsd.) grösser als der Meder einmaligen Gesamtkosten: WeKosten nach oben (so liegen beispielsZudem haben sowohl bei den
+Medizintechnik
+
+|21
+einmaligen totalen Kosten (1 Unternehmen) als
+(3 Unternehmen) einzelne Unternehmen entwederben machen können.
+Abbildung 4: Boxplot für die Herstellern aufgrundschnittlich entstandenen totalen Kosten
+in Tsd. CHF
+Totale Kosten
+Der Boxplot ist wie folgt zu lesen: Die den Boxplot in zwei Hälften
+Beobachtung, welche in der Mitte aller Beobachtungen liegt. Der
+Ende der Box ist durch das 25%-Quartil, das obere Ende der Boxwie oberhalb der Box ergeben sich aus dem 1,5-fachen des Interquartilsabstands
+minus Median). Werte, die unter bzw. über den Antennen liegen,
+eine Beobachtung).
+Grafik INFRAS.
+3.1.2. Weitere Aussagen zu Exportvolumen,
+Obschon der Export von Medizinprodukten in dieschnittlich mit höheren Kosten einhergeht, berichten
+änderten Exportaktivitäten mit der EU. Das bedeutet,
+in vergleichbaren Volumina in die EU exportieren.
+gänge sind hier nicht zu beklagen. Die höheren Kostengegebene Marktbedingungen betrachtet und als
+diese Kosten tragen zu können, zeugt wiederumzer Medizinproduktherstellern.
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+auch bei den wiederkehrenden totalen Kostenkeine Kosten angegeben oder keine Angader Nicht-Aktualisierung des MRA durcheinmalig
+wiederkehrend (pro Jahr)
+trennende Linie zeigt den Median an. Der Median ist jene
+Mittelwert ist durch das Kreuz gekennzeichnet. Das unteredurch das 75%-Quartil definiert. Die Länge der Antennen unter-
+(Median minus 25%-Quartil bzw. 75%-Quartilgelten typischerweise als Ausreisser (jeder Punkt markiert
+Marktposition und Beschäftigung
+EU nach der Nicht-Aktualisierung durchca. zwei Drittel der Hersteller von unverdass diese Hersteller dieselben Produkte
+Nicht-Aktualisierungs-bedingte Umsatzrück- – – insbesondere einmalige werden alsnotwendiges Übel akzeptiert. Die Fähigkeit
+von der ökonomischen Resilienz von SchweiMedizintechnik
+
+22|
+Rund ein Drittel der Hersteller dokumentiertzit auf die Nicht-Aktualisierung zurückgeführt werden.
+Lieferausfälle. In drei Fällen22 war dies auf den Wechselzurückzuführen, was für die betroffenen Unternehmen
+Höhe von 5 bis 25% des jährlichen Gesamtumsatzesser Unternehmen Kurzarbeit für 4 Mitarbeiter anmelden.
+aus, dass die logistische Abwicklung des Exportsund die Lieferzeit beträchtlich verlängert. Die Konkurrenzfähigkeit
+dadurch, was sich im Wegfall einer ganzen Kundegruppeder Gesamtumsatz anhaltend um ca. 20%, zwei
+zeigt, dass die entstandenen Umsatzrückgänge,
+die damit verbundenen Opportunitätskosten durchder Nicht-Aktualisierung, wie sie oben erfasst wurden,
+derkehrend/dauerhaft klar übersteigen können.
+Prinzipiell gibt es zwei Strategien, um mit höherensich die Marge oder die höheren Kosten werden
+Strategie ist insbesondere dann interessant, wenndas heisst, wenn Kunden nur wenig auf Preisänderungen
+steller bekundet, dass die Nicht-Aktualisierung keinenweil etwa nur vernachlässigbare und/oder primär
+Hälfte berichtet mehrheitlich von einer Reduktiondie hergestellten Produkte im preisunelastischen
+tensiven Marktumfeld befinden, weswegen Preiserhöhungen – sen wären dies wurde teilweise auch ausdrücklich
+Auf die Beeinträchtigung ihrer Wettbewerbsfähigkeitangesprochen, gaben von den 14 befragten Herstellern
+2 sahen sie als etwas geschwächt an. 10 hingegen
+Mehrheit der Hersteller ist die Belastung durch diestarke Minderheit von 30% der Hersteller ist jedoch
+Wettbewerbsfähigkeit zu beklagen. Dies kann ausresultieren, wobei hierfür vor allem die wiederkehrenden
+3 Fällen führten die höheren Kosten aber zu einem
+EU.
+22 Inklusive des Einzelfalls.
+23 Bis zu drei Jahre.
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+jedoch Umsatzrückgänge, die von ihnen expliMeist handelt es sich um temporärereauf eine EU-Konformitätsbewertung
+temporäre Umsatzrückgänge23 in derzur Folge hatte. Zudem musste eines dieIn einem anderen Fall stellte sich hervia EU-Importeur hohe Kosten verursachendieses Herstellers litt
+ausdrückt. In der Folge schrumpfte
+Vollzeitstellen mussten abgebaut werden. Dieswenn sie auftreten, erheblich sein können und
+entgangene Umsätze die direkten Kostensowohl einmalig/temporär als auch wieKosten umzugehen: Entweder reduziertdurch Preiserhöhungen kompensiert. Letztere
+die Preiselastizität der Nachfrage gering ist,
+reagieren. Rund die Hälfte der HerEinfluss auf die Produktpreise hat. Dieseinmalige Kosten angefallen sind. Die andere
+der Marge. Das deutet darauf hin, dass sich
+Bereich bzw. in einem sehr wettbewerbsinnicht durchsetzungsfähig geweerwähnt.
+aufgrund der Nicht-Aktualisierung
+2 an, dass sie stark geschwächt wurde,
+berichteten von keiner Veränderung. Für die
+Nicht-Aktualisierung gut tragbar, für eineauch drei Jahre später eine geschwächte
+längeren Lieferzeiten oder höheren Kosten
+Kosten relevant sein dürften. Nur in
+Verzicht des Exports von Produkten in die
+Medizintechnik
+
+|23
+Die meisten Hersteller berichten von einemten bis geringfügig veränderten Personalbestand.
+rungen, dann waren diese immer an die Verlagerungorts in die EU gekoppelt, worauf in Kapitel 3.4.1
+3.2. Kosten für Schweizer Händler/Importeure
+Schweizer Importeure und Händler beschaffen ihre
+Schweiz, lagern sie und stellen sie auf dem Marktoder für andere Zwischenhändler. Insgesamt wurden
+Hersteller tätig. Von den 11 Händlern, denen es
+Nicht-Aktualisierung zu machen, sind allen auch
+Abbildung 5 illustriert die Durchschnittskosten,
+entstanden sind. Aus denselben Gründen wie bei
+Sample und der grossen Heterogenität der Antworten,
+die Händler mit entsprechender Vorsicht zu interpretieren.
+Augenfällig ist, dass für die drei Kostenkategorienklärung» und «Vom Hersteller zugewiesene UDI»,
+fallen sind. Dass im Zusammenhang mit der Konformitätserklärungdürfte auf die unilaterale Anerkennung der Schweiz
+zuführen sein. Bei den anderen beiden Posten istreits die Hersteller diese Aufwendungen übernehmen
+wiesen wurde. Einzig die Überprüfung des Vorhandenseinsverursacht nennenswerte wiederkehrende Kosten
+der Händler rapportieren solche wiederkehrenden
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+aufgrund der Nicht-Aktualisierung unveränderKam es zu substanziellen Personalverändedes Produktionsoder Distributionsstandnoch vertieft eingegangen wird.
+Medizinprodukte im Ausland oder in der – bereit entweder direkt für Endverbraucher
+12 Händler befragt. Davon sind 3 auch alsmöglich war, Kostenauskünfte in Bezug auf die
+tatsächlich zusätzliche Kosten entstanden.
+die den 11 Händlern je Kostenkategorieden Herstellern, insbesondere dem kleinen
+sind auch die Analysen und Zahlen für
+«CE auf dem Produkt», «Konformitätseroft keine oder nur geringfügige Kosten angenur geringe Kosten anfallen,
+der Konformitätserklärung der EU zurückdies mitunter dadurch zu erklären, dass be- – worauf auch seitens der Händler hingeoder Anbringung des CE-Zeichensin der Höhe von CHF 18 Tsd. Rund ein Drittel
+Kosten.
+Medizintechnik
+
+24|
+Abbildung 5: Kosten der Nicht-Aktualisierung deskategorie
+in Tsd. CHF
+einmalig
+40 26
+18 18
+-
+War es Händler nicht möglich, Kosten in die abgefragten Kostenkategorien
+Kosten» zugewiesen.
+Grafik INFRAS.
+Als Folge des Verlusts der Gültigkeit des MRA undden Behördenzusammenarbeit mussten EU-Hersteller
+dukte weiterhin in die Schweiz zu exportieren. Diesedurch Swissmedic notwendig, da Swissmedic aufgrund
+den EU-REP oder den Hersteller in der EU zurückgreifenübernahmen die Rolle und die damit verbundenen
+enge Partnerschaft zu einem externen CH-REP. Insgesamt – interne oder externe Kosten in der Kategorie «CH-REP
+nem Anteil von 20% an den gesamten einmaligenkehrenden Kosten stellen Bevollmächtigungsleistungen
+Die Nicht-Aktualisierung stellt neue Anforderungenkumentation, deren korrekte Umsetzung in der Pflicht
+duktkennzeichnung»). Die Wahrnehmung wie Umsetzungdere einmalig als kostenintensiv. Es ist jedoch anzumerken,
+porteure direkt Kosten in diesem Bereich angegeben
+24 Wie bei den Herstellern gilt auch hier, dass hier in jedem Fall fürdies nicht angegeben, konnten sie sie nicht separat ermitteln. Möglich – übernimmt, indem er eine CH-REP für möglicherweise mehrere
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+MRA pro Händler/Importeur nach Kostenwiederkehrend
+einzuordnen, wurden diese der Kategorie «Weiteredamit des Abbruchs der damit einhergeheneinen CH-REP ernennen, um ihre ProRegularie ist für die Marktüberwachungder Nicht-Aktualisierung nicht mehr auf
+kann. Viele der befragten Händler
+Pflichten als CH-REP selbst oder haben eine – dokumentieren 8 von 11 Händlerndurch Hersteller benannt».24 Mit eiKosten und ca. 25% an den gesamten wiedereine relevante Kostenkategorie dar.
+an die Produktkennzeichnung und -doder Händler liegt (Kostenkategorie «Prodieser Pflicht erweist sich insbesondass nur die Hälfte der Händler/Imhaben, und sich die hohen einmaligenimportierte Produkte Kosten auftreten. Haben die Händler
+ist auch, dass ein ausländischer Hersteller die Kosten – Importeure des Produkts zur Verfügung stellt.
+Medizintechnik
+
+|25
+Kosten nahezu vollständig auf nur zwei Unternehmenpassung der Produktetiketten besonders aufwändig
+fende Überwachung der vorschriftsgemässen Produktkennzeichnungzusätzliche Kosten im Qualitätsmanagement, die
+tenstelle verdeutlicht einmal mehr, dass die Kostenfigkeit stark variieren können. Somit lassen sich
+genden Stichprobe keine verallgemeinernden Aussagengungen welche spezifischen Kostenbelastungen
+Händler/Importeure berichteten weiter, sieder Nicht-Aktualisierung Schwierigkeiten gehabt,
+gulatorischen Anforderungen, die sowohl mit derschriftsgemässen Produktkennzeichnung einhergingen,
+dazu gezwungen gesehen, externe Beratungsleistungenhätten sich diesbezüglich aber Gewöhnungseffekte
+kende wiederkehrende Kosten verbunden seien.
+Produktkennzeichnungskosten rund 25% der gesamten
+Mit der Einführung des UDI-Systems verfolgteinfach nachverfolgen zu können. Im Rahmen dieser
+stellt werden, dass Händlern im Zusammenhangwiesenen UDI Kosten entstanden sind.
+Hingegen entstanden bei 80% der befragtensich nicht in die fünf vorangehenden Kostenkategorien
+Kosten nennen Händler Aufwendungen für die Anpassunggements sowie für die Neuakquise von Produkten,
+grund der Nicht-Aktualisierung erforderlich wurde.
+rund einem Drittel den grössten Anteil an den gesamtenfallen zusätzliche Qualitätsmanagementkosten,
+schriftgemässen Produktkennzeichnung entstehen,
+terschulungen für neue und überarbeitete regulatorischeten im Zusammenhang mit Kontrollen seitens Swissmedic
+für Produkte aus der EU.25 – In der Übersicht sind ähnlich wie bei den Herstellernkategorie tendenziell höher als die jährlich wiederkehrenden
+25 Angesichts der genannten Kostengründe ist eine gewisse Skepsisdes MRA und der MDR/MepV möglich war. Die Gesprächspartner
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+zurückführen lassen, deren einmalige Anwar. Darüber hinaus verursacht die laulaut wenigen Händlernsie den weiteren Kosten zuordnen. Diese Kossowohl in ihrer Höhe als auch in ihrer Häufür diese Kostenkategorie auf Basis der vorliedarüber treffen, unter welchen Bedinentstehen.
+hätten insbesondere in der Phase kurz nachdie aus ihrer Sicht komplex ausgestalteten reErrichtung des CH-REPs als auch mit der vorzu verstehen. Teilweise hätten sie sichin Anspruch zu nehmen. Unterdessen
+eingestellt, wodurch tendenziell auch sinMit CHF 17 Tsd. machen die wiederkehrendenwiederkehrenden Kosten aus.
+die EU das Ziel, Medizinprodukte schnell und
+Studie konnte keine Evidenz dafür festgemit der Überprüfung der vom Hersteller zugeHändlern/Importeuren weitere Kosten, dieeinordnen lassen. Unter einmaligen
+des Qualitätsund Monitoringmanadie durch den Wegfall von Produkten aufIn die wiederkehrenden Kosten, die mitwiederkehrenden Kosten ausmachen,
+die durch die laufende Sicherstellung der vorAusbildungskosten in Bezug auf MitarbeiAnforderungen von Swissmedic, Kossowie höhere Neuaufnahmekosten – die einmaligen Kosten je KostenKosten. Jedoch fallen die jährlichangebracht, ob hier eine klare Trennung der Konsequenzen
+haben dies jedoch so bestätigt.
+Medizintechnik
+
+26|
+wiederkehrenden durchschnittlichen totalen Kostenbei den Herstellern (CHF 36 Tsd.). Einmalig fallen
+Die Studie weist nicht darauf hin, dass Händlerhöhere einmalige Durchschnittskosten zu tragen
+wiederkehrende Durchschnittskosten für Händler,
+kleine Stichprobe mahnt jedoch zu grosser Vorsicht
+3.2.1. Unterschiede in den Kosten zwischen
+Einen Überblick über die Verteilung der durchschnittlichenporteuren bietet Abbildung 6. Der Boxplot für die
+dian (CHF 15 Tsd.) die Box in zwei stark ungleichschnittlichen einmaligen Totalkosten für 50% der
+zwei Unternehmen fallen keine einmaligen Kostendass die Variation der Kosten der 50% der Unternehmen,
+grösser ist. Das äussert sich auch im Mittelwert (CHF
+der Median ist. Er wird besonders von zwei hohen
+Abbildung 6: Boxplot für die Händler/Importeuredurchschnittlich entstandenen totalen Kosten
+in Tsd. CHF
+Totale Kosten
+Der Leseweise der Boxplots ist der Abbildung 4 zu entnehmen.
+Grafik INFRAS.
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+mit CHF 76 Tsd. bedeutend höher aus alseinem Händler im Schnitt CHF 129 Tsd. an.
+mit keiner Niederlassung in der EU merklichhaben. Jedoch finden sich deutlich höhere
+die keine Niederlassung in der EU haben. Diebei der Interpretation dieser Beobachtung.
+den Händlern/Importeurentotalen Kosten bei Händlern/Imeinmaligen Kosten zeigt, dass der tiefe Megrosse Teile zertrennt. Folglich sind die durchUnternehmen beinahe vernachlässigbar, füran. Dieses Bild wird dadurch kontrastiert,
+die oberhalb des Medians liegen, viel
+129 Tsd.), der etwa neunmal grösser als
+Werten in die Höhe getrieben.
+aufgrund der Nicht-Aktualisierung des MRA
+einmaligwiederkehrend (pro Jahr)
+Medizintechnik
+
+|27
+Für die durchschnittlich wiederkehrenden Kostengleich nicht ganz so starke Asymmetrie erkenntlich:
+vernachlässigbare Kosten, während andere Unternehmenten zu kämpfen haben.
+3.2.2. Weitere Aussagen zu Importvolumen,
+In etwa die Hälfte der befragten Händler gibt an,
+Produkte zumindest temporär nicht mehr importiertnen CH-REP ernannt hat. Die dadurch entstandene
+mühungen in Gang, Substitutionsprodukte zu finden.
+erfolgreich. In diesem Zusammenhang wurde beispielsweisedukte hingewiesen, die zwar selten nachgefragt
+Bedeutung sein können. Aufgrund der höheren Kostenmehr rentieren, solche Produkte in die Schweiz zu
+gungssicherheit von Patienten mit seltenem Bedarfgen. Handelt es sich beim Wegfall hingegen um
+bestehen, wirkt sich dies nicht auf die Versorgungssicherheitter ausweichen können. Bei den von diesem Umstand
+dest kurzfristig eine Reduzierung sowohl ihres Produktsortimentsstamms. Im Extremfall berichtete ein Händler in
+seines Produktesortiments von ca. 50% begleitetrückgang.
+Der geschilderte Fall hatte den direkten Abbau
+Veränderungen im Personalbestand infolge der Nicht-Aktualisierung
+Drittel der Unternehmen festgestellt, wobei in drei
+Bereichen Logistik und Regulatorik erfolgte.
+3.3. Hochrechnung der Kosten für
+Für ein Unternehmen sind die individuellen Kostenbewerbssituation und fliessen in Entscheide für
+tionen und Innovationen ein. In der Summe all dieserdie Entwicklungen auf höherer Ebene bestimmt,
+lung der Schweiz oder der Qualität und Verfügbarkeit
+(vgl. dazu auch Kapitel 4,5 und 6). Diese Entwicklungentung der Einzelunternehmen angetrieben, welche
+der Gesamtbelastung der Branche bzw. der branchenweiten
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+pro Unternehmen ist eine ähnliche, wennAuch hier entstehen 50% der Unternehmenmit spürbaren wiederkehrenden KosMarktposition und Beschäftigungaufgrund der Nicht-Aktualisierung gewisse
+haben zu können, weil der Hersteller keiLücke in den Produktsortimenten setzte BeDiese Bemühungen waren nicht immerauf niedrigpreisige Nischenprowerden, aber im Bedarfsfall von existenzieller
+kann es sich für EU-Hersteller nichtliefern. Laut Händlern könne dies die Versoran Medizinprodukten direkt beeinträchtiProdukte, für die Substitutionsmöglichkeitenaus, da Kunden auf andere Anbiebetroffenen Händlern zeigte sich zuminals auch ihres Kundendiesem Zusammenhang von einem Rückgang
+von einem entsprechend markanten Umsatzeiner Vollzeitstelle im Vertrieb zur Folge.
+wurden bei etwa einemvon vier Fällen ein Personalaufbau in den
+die Gesamtbrancheentscheidend. Diese bestimmen seine WettMarkteintritte und Standorte sowie für InvestiEinzelentscheide werden dadurch auchbeispielsweise für die wirtschaftliche Entwickvon Medizinprodukten in der Schweiz
+werden jedoch nicht durch die Belasstark variieren können, sondern hängen von
+Durchschnittsbelastung ab. Daher
+Medizintechnik
+
+28|
+ist neben den individuellen Kosten auch von Interesse,
+Aktualisierung in der Schweiz branchenweit verursacht.
+3.3.1. Kosten in Relation zum Umsatz
+Umsätze der befragten Unternehmen
+Aus den Daten werden sowohl für die Seite der Hersteller
+Gesamtkosten sowie die Kosten am Anteil des Umsatzeszuweisen, dass bereits die Ausgangsdaten mit erheblichen
+die Hochrechnungen sind weiter Annahmen nötig, – Orientierung es handelt sich um eine illustrativesis der verfügbaren Informationen.
+Die Hochrechnung erfolgt anhand von Umsätzennen Kosten. Dazu wurden die Kosten durch die Summe
+zielten Umsatzes geteilt (Nicht-Aktualisierungs-bedingtein der EU in %; die Bandbreite der Schätzung ergibt
+Umsätze). Analoges Vorgehen gilt für die Händler/Importeure,
+tung wechselt und die Kosten pro Franken Umsatzportierten Medizinprodukten von Interesse sind.26
+Dass die Kostensätze mit unterer und oberercherheit in den verwendeten Umsatzgrössen zurückzuführen.
+ternehmen in fast der Hälfte der Gespräche keinegrössen machen. Teilweise konnten sie zumindest
+linformationen. Um dennoch alle Informationenwurde in diesen Fällen die Bandbreite verwendet
+grössen geschätzt, wobei das Vorgehen je nach Informationslage
+Verwendung statistischer Überlegungen, Angabenfentlich auffindbarer Informationen zum jeweiligen
+Kostensätze keine zuverlässige, statistisch gesicherte
+26 Die Vorteile des MRA entfalteten auch für Exporteure aus Drittländern,
+portierten (was in aller Regel der Fall sein dürfte). Daher sind nichtglobal.
+27 Durch dieses Vorgehen können alle Angaben zu den Kosten berücksichtigt
+Quelle für Unsicherheiten in der Berechnung in Kauf genommen,
+tion eines Unternehmens auch sehr unterschiedlich ausgeprägt ist.
+Konfidenzintervalle im statistischen Sinn zu verstehen, da die Variationsteht.
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+welche zusätzlichen Kosten die Nichtwie der Händler Schätzungen für diegeschätzt. Es ist nochmals darauf hinUnsicherheiten behaftet sind. Fürund die Ergebnisse bieten nur eine grobe
+Hochrechnung und ein «best guess» auf Baund den pro Franken Umsatz entstandedes von den Herstellern in der EU erKosten pro erzieltem Franken Umsatzsich aus der Bandbreite der geschätzten
+nur dass hier die Verkehrsrichin der Schweiz mit aus der übrigen Welt imGrenze ausgewiesen werden, ist auf die UnsiSo wollten oder konnten die Undirekten Angaben zu den relevanten Umsatzeine Bandbreite angeben, oder andere Teizu den Kosten berücksichtigen zu können,
+oder eine Bandbreite der fehlenden Umsatzunterschiedlich war (unterder übrigen Unternehmen und weitere, öfUnternehmen).27 Daher repräsentieren die
+Schätzung der Gesamtkosten.
+wenn diese sowohl in die EU als auch die Schweiz exnur die Exporte aus der EU in die Schweiz relevant, sondernwerden, gleichzeitig wird jedoch eine zusätzliche
+wobei der Grad der Unsicherheit je nach spezieller KonstellaDie obere und die untere Grenze sind daher auch nicht alsnicht in allen Fällen durch stochastische Prozesse entMedizintechnik
+
+|29
+Die durchschnittliche Belastung pro Franken Umsatz
+Tabelle 2 listet die nach soeben geschildertem Vorgehen
+Kosten der Hersteller pro Franken Umsatz in derderkehrenden Kosten pro Franken Umsatz rangieren
+reichen eine Höhe, die für sich betrachtet, nichtder Medizinproduktehersteller insgesamt stark belastet.
+wiederkehrenden Kosten, welche für die Entwicklungtitionsentscheide wichtiger sind als die einmaligen
+Tabelle 2: Kosten pro Umsatz
+Herstelleruntere Grenze obere Grenze
+Einmalig 0.3% 0.7%
+Wiederkehrend 0.1% 0.14%
+Tabelle INFRAS.
+Etwas höher, insbesondere bei den wiederkehrendenwobei auch hier die Grössenordnung mit unter einem
+werbsentwicklung kaum Matchentscheidend seinmals darauf verwiesen wird, dass aus systematischen
+werden konnten.
+Dass trotz dieser Beobachtungen auch drei Jahreder befragten Hersteller von einer geschwächten
+seitens der Händler nichts ähnliches zu hören ist,
+stehen in einem teils sehr harten internationalensämtliche Händler in gleicher Form getroffen hat.
+Noch wichtiger für diese auf den ersten Blickdie grosse Heterogenität unter den Herstellern sein.
+Branche ein Niveau erreichen, welches allein kaumzelfälle stark davon abweichen und somit auch die
+Seitens der Händler ist noch anzumerken, dasszentual gering sind, zumindest mittelfristig wohl
+ten.
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+ermittelten Kosten. Die einmaligen
+EU betragen zwischen 0.3 und 0.7%, die wiezwischen 0.10 und 0.14%. Diese Werte erdarauf schliessen lässt, dass diese die Branche
+Dies gilt insbesondere für die jährlichder Wettbewerbsfähigkeit wie für InvesKosten.
+Händler/Importeureuntere Grenze obere Grenze
+0.6% 0.7%
+0.3% 0.4%
+Kosten, liegen die Werte für die Händler,
+halben Prozent bezüglich der Wettbedürfte. Dies gilt auch dann noch, wenn nochGründen wohl nicht alle Kosten erfasstnach der Nicht-Aktualisierung noch 30%
+Wettbewerbsfähigkeit ausgehen, währenderstaunt nur auf den ersten Blick. Hersteller
+Wettbewerb, während die Kostensteigerungwidersprüchlichen Ergebnisse dürfte jedoch
+Während die Kosten im Durchschnitt derausschlaggebend sein dürfte, können EinRelevanz entsprechend steigen.
+die zusätzlichen Kosten, auch wenn sie proauf die Endkundenpreise durchschlagen dürfMedizintechnik
+
+30|
+3.3.2. Kosten der Gesamtbranche
+Aus den Mittelwerten der Kostensätze pro Umsatztierten bzw. importierten Werten aus dem Jahr
+Kosten für die Gesamtbranche berechnet. Demnacheinmalig CHF 31.5 Mio. und wiederkehrend CHF
+hingegen einmalig mit CHF 39 Mio. und wiederkehrend
+3.3.3. Unterschiedliche Kostenbelastungen
+Die Variation in der Belastung pro Franken Umsatz
+Um der grossen Heterogenität der Unternehmen
+Berechnungen durch. Anstatt des Mittelwerts, welcherals Kenngrösse für die Gesamtbranche eignet, verwenden
+nehmens sowie das 25 und 75%-Quartils für die
+Belastung äusserst sich auch in prozentualen Durchschnittskostender EU mit in der Schweiz hergestellten Produkten
+ten von 50% der befragten Hersteller unter dentens um den Faktor 3 über dem Mittelwert liegt.
+malig gegen 10% des Umsatzes und einer wiederkehrendenbart, dass herstellerseitig eine enorme Diskrepanz
+aller Hersteller weisst Zusatzkosten in diesem Ausmass
+3 Jahre nach der Nicht-Aktualisierung Wettbewerbsnachteilegig darauf zurückzuführen sein.
+Tabelle 3: Lagemasse der individuellen Durchschnittskosten
+Hersteller
+Einmalig Wiederkehrend
+Q25 0.1% 0.015%
+Median 2.2% 0.3%
+Q75 9.3% 2.3%
+Das 25%-Quartil bzw. 75%-Quartil ist mit Q25 bzw. Q75 abgekürzt.
+Tabelle INFRAS.
+28 Zur Berechnung dieser Kosten-Lagemasse wurden zunächst fürermittelt, indem die angefallenen Kosten ins Verhältnis zum in der
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+(Tabelle 2) und dem Mittelwert der expor2021 und 2022 (vgl. Kapitel 2.1) wurden diefallen Herstellern Kosten in der Höhe von
+7.5 Mio. an. Händler/Importeure sehen sichmit CHF 21 Mio. konfrontiert.
+Rechnung zu tragen, führen wir noch weiteresich aufgrund seiner Eigenschaften gut
+wir die Kosten des Median-UnterAnalyse (siehe Tabelle 3)28. Die asymmetrischepro erzieltem CHF Umsatz in
+einzelner Unternehmen: So liegen die KosMediankosten von 2.2%, was bereits mindesDas 75%-Quartil mit einer Belastung von einBelastung von knapp 2.5% offender individuellen Kosten existiert. Ein Vierteloder mehr auf! Dass 30% der Hersteller
+zu beklagen haben, dürfte vorranHändler/Importeure
+Einmalig Wiederkehrend
+0.1% 0%
+0.13% 0.2%
+3.8% 1.1%
+jedes Unternehmen die individuellen Durchschnittskosten
+EU erzielten Umsatz im Jahr 2021 gesetzt wurden.
+Medizintechnik
+
+|31
+Händlerseitig ist ein ähnliches Bild beobachtbar:
+bare Kosten, während ein kleiner Teil hohe einmalige
+Vergleiche der Kosten nach Unternehmensgrösse
+Neben der Variation der Belastungen sind auch diemensgrösse von Interesse. Tabelle 4 zeigt die den
+den prozentualen Kosten pro CHF Umsatz in dersen. Damit soll ein grober Eindruck vermittelt werden,
+men in Abhängigkeit ihrer Grösse betroffen sein
+Tabelle 4: Geschätzte Kostenanteile am EU-Umsatz
+Einmaliguntere Grenze obere
+Klein: 1-49 VZÄ 2.8%
+Mittel: 50-249 VZÄ 1.8%
+Gross: >250 VZÄ 0.1%
+Tabelle INFRAS.
+Der Vergleich der Kosten nach Unternehmensgrössebis hierhin erworbenen Einsichten plausible Interpretationen
+sind die Kosten gemessen am Umsatz geringer als
+Dies könnte damit zusammenhängen, dass diesehatten und genügend internes Fachwissen zum Umgang
+nicht auf teure externe Beratungen angewiesenbenenfalls effizienter organisieren und skalieren.
+druck, wonach Hersteller sehr ungleich von der Nicht-Aktualisierungdurch teilweise sehr hohe obere Grenzen bestätigt.
+Für die Händler/Importeure (Tabelle 5) zeigtzunehmender Grösse ebenfalls, mit der Ausnahme,
+jene der grossen übersteigen. Ob hier allerdingstisch gesichert nicht gesagt werden. Vielmehr steht
+einzelne Situation eines Unternehmens entscheidend
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+50% der Unternehmen haben vernachlässigKosten stemmen muss.
+Kosten aufgeschlüsselt nach UnternehUnternehmen entstandenen bzw. entstehenEU, aufgeschlüsselt nach Unternehmensgröswie unterschiedlich stark die Unternehkönnen.
+nach Unternehmensgrösse Hersteller
+Wiederkehrend
+Grenze untere Grenze obere Grenze
+4.1% 0.9% 1.3%
+5.2% 0.3% 0.8%
+0.2% 0.03% 0.06%
+lässt folgende mögliche und auf Basis derzu: Bei grösseren Unternehmen
+bei mittleren und kleinen Unternehmen.
+bereits ein Tochterunternehmen in der EU
+mit Regulierungen besitzen und damitsind. Ebenfalls lassen sich Prozesse hier gegeZudem wird der qualitative gewonnene Einbetroffen sein können,
+sich ein ähnliches Bild: Die Kosten sinken mitdass die einmaligen Kosten der mittleren
+die Ausnahme die Regel bestätigt, kann statisdie Erkenntnis im Vordergrund, dass diefür dessen Kosten ist.
+Medizintechnik
+
+32|
+Tabelle 5: Geschätzte Kosten am Import nach Unternehmensgrösse
+Einmaliguntere Grenze obere
+Klein: 1-49 VZÄ 2.1%
+Mittel: 50-249 VZÄ 0.15%
+Gross: >250 VZÄ 0.8%
+Tabelle INFRAS.
+3.3.4. Vergleich der Ergebnisse mit anderen
+Swiss Medtech (2021) schätzte ex ante die einmaligenfür die Hersteller auf 2% des Umsatzes, die wiederkehrenden
+telten Kosten fallen deutlich niedriger aus. Zwar
+Werte durchaus innerhalb des Bereichs, in welchemtung schwanken (vgl. z. B. vorangehender Abschnitt
+grösse). Dennoch stellt sich die Frage, warum fürbeiden Studien als zentrales Ergebnis ermittelt wird,
+mehrere plausible Gründe, die sich zudem nichtauflösen, so jedoch zumindest erklären können:
+1) Die zugrundeliegenden Stichproben sind
+Werten gesprochen werden kann. Die Stichprobe,
+lyse beruht, ist mit rund 20 Unternehmenhier. Angesichts der grossen Heterogenität
+überraschend. In diesem Sinn könnte ein
+Aussagekraft verbessern.
+2) Diese Studie erhebt die Kosten im Vergleichwurden die effektiven Kosten ex-ante überschätzt,
+gen bei den Unternehmen, unklarer Informationslage,
+sungspotenziale in Laufe der Zeit. Zudemnommenen Vereinfachungsmassnahmen
+Händler betrifft). Zudem ist ein strategisches – denkbar zu einer Zeit, als noch nicht klartualisierung genau auf die Branche zukommt
+hält.
+3) Die detaillierten Gespräche offenbartender Nicht-Aktualisierung und ihrer Folgen.
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+Händler/Importeure
+Wiederkehrend
+Grenze untere Grenze obere Grenze
+2.3% 0.6% 0.7%
+0.2% 0.4% 0.5%
+1.8% 0.01% 0.015%
+Studien
+Gesamtkosten der Nicht-Aktualisierung
+Kosten auf 1.4%. Die hier ermitliegen die von Swiss Medtech ermitteltendie Ergebnisse auch hier je nach Betrachoder die Analyse nach Unternehmenseinen mittleren Branchenwert, welcher von
+die Unterschiede so deutlich sind. Es gibtausschliessen und die Diskrepanz, wenn nicht
+zu klein, als dass von statistisch gesichertenauf welcher die Swiss Medtech Ananur unwesentlich grösser als die Stichprobe
+der Werte sind die Diskrepanzen nicht
+Zusammenlegen beider Betrachtungen diezu Swiss Medtech ex-post. Möglicherweise
+z. B. wegen zu grossen BefürchtunUnterschätzung der Anpaswaren dazumal die von der Schweiz vorgenoch nicht absehbar (was aber vorrangig die
+Antwortverhalten mit höheren Kostenwar, ob und in welcher Form die Nicht-Akund welche Unterstützung sie dabei erauch Unterschiede im Grad der Antizipation
+Gewisse Unternehmen antizipierten die
+Medizintechnik
+
+|33
+Nicht-Aktualisierung und leiteten daraufview ging hervor, dass Swiss Medtech eine
+Es ist möglich, dass diese Vorbereitung aufdurch das MRA dazu beigetragen haben,
+wartung einer Belastung kann somit u. U
+(eine Art «sich selbst widerlegenden Prophezeiung»).
+Zwei weitere Studien, Ecoplan (2015) und BAK Economicsdie zusätzlichen Kosten einer Nicht-Aktualisierung
+Medizinprodukte, sondern für alle im MRA umfasstendie Annahmen einseitiger Erleichterungen seitens
+sierung umgesetzt wurden. Für die Werte wurdendenen Indikatoren, und insbesondere in Gesprächen
+gung bisheriger empirischer Schätzungen von Handelseffektenund BAK verwendete Spannweite beträgt 0.5 bis
+fenden durchschnittlichen Kosten liegen nochmals
+Economics verwendeten Spanne, jedoch deutlichlyse. Neben allen methodischen und weiteren Gründen
+plan und BAK Economics von der Notwendigkeitgegangen sind. Die einseitige Anerkennung der EU-Konformitätsbewertung
+und der Umstand, dass die meisten Unternehmenbereits in der EU bewerten liessen, hat sicherlich
+beigetragen.31
+3.4. Auswirkungen auf InvestitionsInwiefern sich die Nicht-Aktualisierung auf die Investitionsstellern und Händlern/Importeuren ausgewirkt hat,
+derum wird zwischen Herstellern (3.4.1) und Händlern/Importeuren
+29 Das KOF (2015) konnte mittels einer ökonometrischen Analyse
+Zollverwaltung) für über 5'000 Produkte über einen Zeitraum vonnachweisen. Demnach erhöht das MRA die Wahrscheinlichkeit von
+bzw. 4.4 Prozentpunkte. Darüber hinaus stellt die Studie eine annäherndeeine Erhöhung des Exportvolumens in die EU um 9% fest.
+30 Dies umfasst laufende und einmalige Kosten, wobei letztere aufrücksichtigten Kosten gehört insbesondere die doppelte Konformitätsbewertung,
+wendungen.
+31 Im Fall, dass die Schweiz diesen Schritt nicht gemacht hätte, hätten
+Aktualisierung neu zu einer EU-Bewertung wechseln mussten, Kostendischen Hersteller für den Import) hätten je zwei, also immer eine
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+entsprechende Schritte ein. Aus einem Interentsprechende Empfehlung abgegeben hat.
+den Wegfall der Handelserleichterungdie effektiven Kosten zu reduzieren. Die Erdie effektiv auftretende Belastung reduzieren
+(2015), verwenden Schätzungen fürdes MRA, allerdings nicht spezifisch für die
+Industriebereiche insgesamt, und ohneder Schweiz, wie sie nach der Nicht-AktualiAnnahmen getroffen basierend auf verschiemit Fachpersonen aber auch die Übertra-
+(KOF 2015)29. Die von Ecoplan
+1% des Umsatzes.30 Die hier ermittelten laudeutlich unterhalb der von Ecoplan und BAK
+näher als die Zahlen der Swiss Medtech-Anaist dabei ein zentraler Faktor, dass Ecoeiner doppelten Konformitätsbewertung ausdurch die Schweizim Medizinproduktebereich ihre Produkte
+zu einer erheblichen Reduktion der Kostenund Standortentscheide
+und Standortentscheide von Herist Gegenstand dieses Unterkapitels. Wie-
+(3.4.2) unterschieden.
+auf Basis von Handelsdaten des BAZG (ehemals Eidgenössische
+22 Jahren einen sogenannten trade creation Effekt des MRA
+Importen aus der EU und Exporten in die EU um rund 5.2
+Verdoppelung des Importvolumens aus der EU undeinen Zeitraum von 15 Jahren umgelegt wurden. Zu den beaber auch alle weiteren administrativen Aufnicht nur die ca. 50 Unternehmen, welche nach der Nichtgehabt, sondern alle 660 Hersteller (wie auch die auslänzusätzliche Konformitätsbewertung benötigt.
+Medizintechnik
+
+34|
+3.4.1. Befunde auf Seiten Hersteller
+Die Mehrheit der befragten Hersteller berichtet,
+dungen von der Nicht-Aktualisierung nicht beeinflusst – etablierte Unternehmen ihre Präferenz für diestandort, im Speziellen aufgrund des hohen Ausbildungsniveaus
+sind daher auch bewusst bereit, höhere Kosten in
+Aktualisierung).
+Ein Drittel der befragten Hersteller, bestehend
+Zusammenhang mit der Nicht-Aktualisierung davon,
+Distributionsstätten in die EU geprüft zu haben.
+dest aus ökonomischer Perspektive als sinnvoll erachtetzielten Kosteneinsparungen einschliesslich der durch
+Kosten mittelbis langfristig den Aufwand der Verlagerungmüssen die mit der Verlagerung verbundenen Aufwendungen
+kleinere Unternehmen fiel eine solche Prüfung immer – rung mit einem nach Auskunft der Gesprächspartnerwenn auch nicht unbedingt als (allein) ausschlaggebenden
+Vertriebsstätte in die EU kam es bei den 14 Herstellern,
+den, in zwei Fällen. In einem Fall führte die Verlagerungder Schweiz im mittleren zweistelligen Bereich, während
+Umschichtung der Arbeitsplätze Entlassungen vermieden
+Anders gestaltet sich die Situation für Unternehmenjunge, stark wachstumsorientierte Unternehmen.
+etabliert und die Ressourcen hierfür oft knapp. Zudemneue Konformitätsbewertung für ihre neuen Produkte,
+«time to market» einer der entscheidenden Erfolgsfaktorenauch die «time to Konformitätsbewertung». Hier
+eine Rolle, da die Zertifizierung via Schweizer SQS
+Stellen schneller und unbürokratischer erfolgt. Dies
+32 Dabei sind die Kosten der Nicht-Aktualisierung bei weitem nichtschiede. Sie stellen einen zusätzlichen Faktor dar, welcher einen
+wurden jedoch explizit gefragt, ob die Überlegungen in einem kausalen
+33 In der Wachstumsphase eines Unternehmens ist die Zeit bis zurwelcher beispielsweise über Opportunitätskosten in Form entgangener
+gen fliessen direkt in das Kalkül von Investoren und deren Finanzierungsentschiedeeines Start-ups sogar noch wesentlich früher beeinflussen.
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+dass ihre Investitionsund Standortentschei- – wurden. Zudem betonen insbesondere
+Schweiz als Innovationsund Produktionsim Bereich Medizintechnik. Sie
+Kauf zu nehmen (nicht nur durch die Nichtaus Herstellern aller Grössen, berichtet imeine Verlagerung ihrer Produktionsund
+Damit die Prüfung einer Verlagerung zuminwerden kann, müssen die dadurch erdie Nicht-Aktualisierung verursachtenmindestens aufwiegen.32 Zudem
+auch kurzfristig tragbar sein. Fürnegativ aus. Zu einer effektiven Verlagekausalen Zusammenhang mit dem MRA, – Faktor von Produktionsund/oder
+mit welchen Interviews geführt wurzu einem Abbau von Arbeitsplätzen inim zweiten Fall durch eine interne
+werden konnten.
+in der Gründungsphase oder für
+Die administrativen Prozesse sind wenigerbenötigen Start-ups in jedem Fall eine
+unabhängig vom MRA. Dabei ist diefür die Unternehmen,33 und damit
+spielt die Nicht-Aktualisierung des MRA nunim Vergleich zu den von der EU benannten
+ist jedoch nicht mehr möglich.
+die einzigen und auch keinesfalls die grössten KostenunterVerlagerungsentscheid beeinflussen kann. Die Unternehmen
+Zusammenhang mit dem MRA stehen.
+Marktzulassung eines Produkts ein entscheidender Faktor,
+Umsätze das Unternehmen belastet. Diese Überlegunkritisch ein und können somit die Chancen
+Medizintechnik
+
+|35
+3.4.2. Befunde auf Seiten Händler
+Anders als für die Produzenten stellt sich die Situationder Händler dar. Eine (Teil-) Verlagerung stellt für
+den Entscheid, im Schweizer Markt zu bleiben oder
+Händler, welche rein Schweizer Unternehmen sind,
+den Standort Schweiz gebunden. Diese können denchen und müssen die zusätzlichen Kosten auf die
+Besonders herausfordernd ist die Situation für
+Aktualisierung des MRA und den dadurch gestiegenenpalette aufgrund von Importproblemen oder -ausfällen
+vorübergehende oder dauerhafte Ausfall führte
+Diese haben die betroffenen Händler dazu veranlasst,
+produkte zu suchen, um Ihre Angebotspalette vollständigtierten die Händler auch, um neue, noch nicht auf
+ihr Portfolio aufzunehmen und in der Schweiz einzuführen.
+ausforderungen hängt allerdings in erheblichemzeigt sich nämlich auch, dass Händler ihre Investitionsvorhaben
+auf Investitionen in neue Produkte verzichteten,
+Möglichkeiten einschränkten.
+Etwas anders stellt sich die Situation für diejenigenschaft eines ausländischen Unternehmens sind.
+lisierung zur Hinterfragung der Standortattraktivitätaustritt kam es bei den von uns befragten Unternehmen
+34 Dies kann wirtschaftlich bedingt durch den höheren Aufwand der
+Produkts nicht mehr gegeben ist, oder durch Entscheide ausländischerscheuen und die Schweiz nicht mehr beliefern. Es sei hier aber nochmals – lierung mit der MDR in der EU ebenfalls und wohl viel häufiger
+diese Unterscheidung in den Interviews explizit eingegangen wurde,
+auch vollständig zu trennen.
+35 Ein Unternehmen, welches diesen umgesetzt haben sollte, könntenicht in der Befragung enthalten sein, ausser es würde sich noch
+INFRAS | 14. Februar 2025 | Auswirkungen auf Unternehmen in der
+
+für Investitionsund Standortentscheidediese keine Option dar. Vielmehr geht es um
+nicht. Dabei zeigt sich ein gemischtes Bild.
+sind aufgrund ihres Geschäftsmodells anzusätzlichen Aufwendungen nicht ausweieine oder andere Weise kompensieren.
+jene Unternehmen, denen nach der NichtKosten ein Teil ihrer bisherigen Produktnicht mehr zur Verfügung stand.34 Derteilweise zu erheblichen Umsatzeinbussen.
+in der Schweiz verfügbare Substitutionszu halten. In wenigen Fällen invesdem Schweizer Markt erhältliche Produkte in
+Diese Art der Reaktion auf die HerMasse von der Situation des Händlers ab. Esreduzieren mussten oder ganz
+weil die Umsatzeinbussen die finanziellen
+Händler dar, welche TochtergesellFür diese Unternehmen führte die Nicht-Aktuader Schweiz. Zu einem effektiven Marktaber nicht35.
+Fall sein, wenn die preisliche Wettbewerbsfähigkeit des
+Hersteller, welche den (potenziellen) Zusatzaufwandbetont, dass die gleichzeitige Verschärfung der Regu- – zum Marktaustritt von Produkten geführt hat. Auch wenn auf
+ist nicht klar, ob es den Händlern immer möglich war, diesaber aufgrund der verfügbaren Adressgrundlagen auch gar
+im Prozess des Rückzugs befinden.
+Medizintechnik
+
+36|
+4. Auswirkungen auf verwandte
+4.1. Diagnostikindustrie
+Die Diagnostikindustrie unterscheidet sich in dersie hier separat diskutiert wird.
+Marktstruktur
+Einerseits gibt es weniger Unternehmen, welchesich beispielsweise an den Anzahl Mitgliedsfirmen
+zählt rund 800 Mitglieder, der SVDI (Schweizerischergegen nur etwa 40 Mitglieder (100 wenn Zulieferer
+40 beim SVDI organisierten Unternehmen handeltoder Siemens Healthineers).
+Andererseits besteht im Diagnostikbereich eine
+Auskunft des SDVI hat dies damit zu tun, dass hierund überdies gewisse Spezialisierungen gefordert
+gie) gibt es z. B. eigene Reagenzien, welche sich von
+Wenn sich ein Kunde also für eine Diagnostikfirma
+80% von einem Zulieferer abgedeckt. Dadurch sindstellern. Das führt zu einer geringen Anzahl im Markt
+dominanz weniger Firmen (z. B. Roche Diagnostics,
+Der Gesamtmarkt hat in der Schweiz ungefähr
+(allerdings inkl. In-vivo-Diagnostik). Die Unternehmenschen CHF 1 Mio. bis CHF 100 Mio., darunter sind
+sierte Produkte produzieren.
+Auswirkungen der Nicht-Aktualisierung des MRA
+Aufgrund der obengenannten Marktstruktur mitnetzten Unternehmen ist die Branche als Ganze
+betroffen bzw. hat die entsprechenden Aufwändefangen können. Dies auch, weil die Unternehmen
+China oder den USA zu tun haben und folglich denlich gewohnt sind. Zudem waren die meisten Firmen
+IVDR. Höhere Kosten aufgrund der Nicht-Aktualisierunggen für den Import, die Produkteregistrierung, für
+und die Compliance mit der IvDV aufgetreten, wobei
+INFRAS | 14. Februar 2025 | Auswirkungen auf verwandte Wirtschaftsbereiche
+
+Wirtschaftsbereiche
+Struktur von der Medizintechnik, weswegenin der Diagnostikindustrie tätig sind. Dies zeigt
+der Branchenverbänden: Swiss Medtech
+Verband der Diagnostikindustrie) hat hinmitgezählt werden). Bei den meisten dieseres sich um Handelsfirmen (z. B. Abbott AG
+stärkere Marktkonsolidierung. Gemäss
+Routinediagnostik bereits weit verbreitet istsind. Für Automaten (z. B. in der HämatoloHersteller zu Hersteller unterscheiden.
+entscheidet, dann wird dieser zu 70% bis
+Kunden eher abhängig von einzelnen Hertätiger Unternehmen und zu einer MarktAbbott AG oder Siemens Healthineers).
+einen jährlichen Umsatz von CHF 450 Mio.
+haben je einen jährlichen Umsatz zwiauch solche, welche nur 1-2 hochspezialiauf Unternehmen in der Diagnostikindustrieeher grösseren und international stark vergemäss SVDI weniger vom Wegfall des MRA
+im Rahmen ihrer etablierten Prozesse aufregelmässig mit Regulierungsbehörden aus
+Umgang mit Handelshemmnissen mehrheitgut vorbereitet auf die Einführung derseien aufgrund von ZusatzaufwendunBevollmächtigte in der Schweiz und der EU
+die Unternehmen durchschnittlich ca.
+
+|37
+eine zusätzliche Person einstellen mussten. Für dienie Kosten in Zusammenhang mit der strengeren
+Der SVDI schätzt, dass ungefähr 5% der Produktedem Sortiment gefallen sind. Für diese Firmen sei
+hin in die Schweiz zu liefern. Aufgrund der strengeren
+Produkte aus dem Sortiment gestrichen worden.
+sich auf der Anwenderseite deswegen der FAMH
+beklagt, dass einige Spezialtest nicht mehr zur Verfügungob der Wegfall dieser Spezialtests auf die Nicht-Aktualisierung
+Für den SVDI ist es grundsätzlich sinnvoll, einals zwingend ansehen.
+Es wäre jedoch wichtig, um die Sicherheit undzu gewährleisten.
+4.2. Konformitätsbewertungsstelle
+Aufgabe SQS
+Ein wichtiger Teil für die Inverkehrbringung vonten ist die Bewertung deren Konformität mit den
+Produkte von einer notifizierten Konformitätsbewertungsstellelassen, damit diese im Umlauf sein dürfen. Die einzige
+tätsbewertungsstelle in den Bereichen Medizintechnik
+Zertifikate sind seit der Nicht-Aktualisierung des
+Übergangsfristen allerdings nicht mehr in der EU
+SQS hat nun die Überwachung von altrechtlichenschärften Regulierung für Medizinprodukte ausgestellt
+gestellt. Derzeit überwacht SQS noch vier Zertifikate,
+ausgestellt wurden, bis März 2025 und stellt anschliessendduktebereich ein.36
+Durch die Aufgabe der Tätigkeit entgehen SQS
+CHF 5 Mio. an Einnahmen. Zudem sind CHF 2.5 Mio.
+dukte getätigt worden, welche aufgrund der Nicht-Aktualisierunggegangen sind.
+36 SQS ist derzeit aber noch im freiwilligen Bereich für Medizintechnikunternehmen
+SQS noch Zertifikate im Bereich des Managementsystems für Medizinproduktetems (ISO 9001).
+INFRAS | 14. Februar 2025 | Auswirkungen auf verwandte Wirtschaftsbereiche
+
+Unternehmen seien allerdings in erster LiRegulierung entstanden.
+aufgrund der Nicht-Aktualisierung auses zu teuer gewesen, diese Produkte weiterRegulierung seien zusätzlich etwa 5% der
+Aufgrund dieser Portfoliobereinigungen habe
+(Verband medizinische Laboratorien Schweiz)
+stünden. Es ist allerdings nicht klar,
+des MRA zurückzuführen ist.
+MRA abzuschliessen, auch wenn sie es nicht
+Planbarkeit für die Diagnostikunternehmen
+SQS
+Medizintechnik und In-vitro-DiagnostikprodukRechtsvorschriften. Hersteller müssen ihrezertifizieren und überwachen
+in der Schweiz zugelassene Konformiund In-vitro-Diagnostik war SQS. Die
+MRA und nach Ablauf der unterschiedlichengültig.
+Zertifikaten, also jene welche vor der verwurden, per Ende September 2024 einwelche unter den neuen Regulierungenihre Tätigkeit im Medizinprogemäss Auskunft mittelfristig knapp
+Investitionen in den Bereich Medizinprodes MRA vollständig verloren
+Lieferkette,
+tätig betreffend die z. B. vergibt
+(ISO 1345) und des Qualitätsmanagementsys-
+
+38|
+Was mit der Tätigkeit von SQS geschieht.
+Bei einer erneuten Aktualisierung des MRA könnteerneut aufbauen. Dies führe gemäss SQS zu Kosten
+würde mindestens 3 Jahre dauern. Einen Medizinproduktebereichsei jedoch grundsätzlich schwierig, da für die jeweiligen
+Fachkräfte gefragt seien. Diese seien schwierig zugemäss MDR unbefangen sein. Dies ist in der Schweiz
+Forschung, Bildung und/oder im operativen Bereichaus gelten mit dem MDR höhere Anforderungen
+dene klinische Kompetenz.37
+Die Hürden für einen Wiedereintritt in den Marktist unsicher, ob Unternehmen überhaupt wieder
+unwahrscheinlich, dass sich SQS bei einer Aktualisierunganerkennen lassen würde.
+4.3. Apotheken
+Apotheken beziehen gemäss Aussagen des befragtentheken für Privatpersonen) hauptsächlich Produkte
+renzprodukte vorhanden sind, können weggefalleneden. Folglich spüren Apotheken keine grossen Auswirkungen
+rung des MRA. Gemäss dem befragten Expertenben, gerade zu Beginn und im Zusammenspiel mit
+MDR/MepV und der Nicht-Aktualisierung des MRA.
+zin-Apotheken verstanden wurden, kehrte raschscher sei es jedoch für die Lieferanten der Apotheken
+giert, was in Einzelfällen dazu geführt habe, dasskonform waren, weil z. B. das Labelling nicht der
+seien aber nicht gefährlich für die Konsument:innen
+Für die Amtsund Spitalapotheken waren dieschaubar. Gemäss Auskunft des Schweizerischen
+(GSASA) war es aufgrund der geringen Bedeutungsion zu diesem Thema mit INFRAS zu führen.
+37 Siehe https://www. vde. com/topics-de/health/beratung/die-eu-medizinprodukteverordnung-mdr-was-aendertsich#:~:text=Die%20europ%C3%A4ische%20Verordnung%20%C3%BCber%20Medizinprodukte, Mai%202021.
+17.12.2024].
+INFRAS | 14. Februar 2025 | Auswirkungen auf verwandte Wirtschaftsbereiche
+
+SQS den aufgegebenen Tätigkeitsbereichzwischen CHF 3 Mio. und CHF 5 Mio. und
+bei SQS erneut aufzubauen
+Produktegruppen hoch-spezialisiertefinden. Zudem müssten diese Angestellten
+schwierig, da Fachkräfte in der Regel intätig sind (z. B. bei Start-ups). Darüber hinan benannte Stellen z. B. in Bezug auf vorhanfür SQS wären somit sehr hoch. Zudem
+zu SQS wechseln würden. Es sei daher eherdes MRA erneut als benannte Stelle
+Experten für Offizin-Apotheken (d. h. Apotieferer Risikoklassen. Da hier viele KonkurProdukte relativ einfach substituiert werbetreffend die Nicht-Aktualisiehabe es zwar eine gewisse Unsicherheit gegeAuswirkungen der Neuerungen des
+Nachdem diese Neuerungen von den Offiwieder ein normaler Betrieb ein. Problematigewesen. Einige hätten zu langsam reagewisse gelieferte Produkte nicht mehr regelneuen Regulierung entsprach. Solche Produktegewesen.
+Auswirkungen der Nicht-Aktualisierung überVereins der Amtsund Spitalapothekenauch nicht notwendig, eine vertiefte Diskus-
+[zuletzt aufgerufen
+
+|39
+5. Auswirkungen in der öffentlichen
+5.1. Zuständigkeiten
+Für den Vollzug der Regulierungen ist Swissmedicmedic um die Genehmigung und Überwachung klinischer
+Überwachung der Marktakteure und Produkte nachgrösste Teil des Aufwandes für Swissmedic findet
+statt.
+Aufgrund der Nicht-Aktualisierung wurde Swissmedicfür Medizinprodukte der EU (Eudamed), ein zentrales
+wehrt. Darüber hinaus fällt aufgrund des Statusim Vollzug mit EU-Behörden weg. Das führt, in Ergänzung
+stark gestiegenen behördlichen Überwachungsaktivitätenchungsaufwand von Swissmedic, da eine Aufgabenteilung
+Marktüberwachung trotzdem noch stattfinden kann,
+Schweiz ansässige Unternehmen bei Swissmedicin der Schweiz registrieren. Dafür entwickelt und
+zer Datenbank für Medizinprodukte (swissdamed38).
+Meldepflicht (in der EU und bei Swissmedic) bei
+Falle von ergriffenen Sicherheitskorrekturmassnahmen
+Das Bundesamt für Gesundheit (BAG) hingegen
+Eidgenössischen Departement des Innern mit der
+Medizinprodukteregulierung beauftragt. Das BAG
+schweizerischen Regulierung mit denjenigen dertus der Schweiz als Drittstaat angleicht. Um die Auswirkungen
+MRA zu minimieren, wurden Auffangmassnahmengung der Schweiz mit Medizinprodukten und stellen
+seitige Anerkennung von EU-Konformitätsbewertungen
+Swissmedic). Mit der Nicht-Aktualisierung des MRA
+schaffen, welche Swissmedic die Marktüberwachung
+38https://www. swissmedic. ch/swissmedic/de/home/medizinprodukte/medizinprodukte-datenbank. html
+27.01.2025].
+39 MepV Art. 55, IvDV Art. 48 und MepV Art. 66 und IvDV Art. 59,
+irs/schweiz-medizinprodukte/ [zuletzt aufgerufen am 19.12.2024].
+INFRAS | 14. Februar 2025 | Auswirkungen in der öffentlichen Verwaltung
+
+Verwaltungzuständig. Namentlich kümmert sich SwissVersuche («pre-market») und die
+Inverkehrbringung («post-market»). Dernach der Inverkehrbringung der Produkte
+der Zugriff auf die neue Datenbank
+Element der Marktüberwachung, verder Schweiz als Drittstaat die Zusammenarbeitzu den mit der neuen Regulierung
+zu einem deutlich erhöhten Überwanicht mehr möglich ist. Damit diemüssen sich beispielsweise nun in der
+registrieren und ihre Produkte zukünftig auchbetreibt Swissmedic neu eine eigene SchweiWeiter haben die Firmen eine doppelteschwerwiegenden Vorkommnissen sowie im
+der Schweiz.39
+ist keine Vollzugsbehörde, sondern vom
+Ausarbeitung des Entwurfs zur Änderung derhat die Aufgabe, die Gleichwertigkeit der
+EU sicherzustellen, indem es diese an den Stader fehlenden Aktualisierung desergriffen. Diese gewährleisten die Versordie Marktüberwachung sicher (z. B. die einoder die Registrierungspflicht bei der
+hat das BAG überdies die Grundlagen gein der Schweiz erlauben.
+[zuletzt aufgerufen amsiehe https://www. johner-institut. de/blog/regulatory-affa-
+
+40|
+Die nachfolgenden Ausführungen stammender jeweiligen Institutionen und deren eigenen Einschätzungen.
+wurden diese Informationen anhand weiterer Quellen40
+5.2. Verwaltungseffizienz und -qualität
+Die Nicht-Aktualisierung des MRA-Kapitels Medizinproduktenehmen aus. Auch staatlichen Akteure sind davon
+im Hinblick auf die Verwaltungseffizienz und -qualitätthematisiert.
+5.2.1. Wegfall der Zusammenarbeit im Vollzug
+Wegfall Zugriff EU-Datenbanken
+Vor der Nicht-Aktualisierung des MRA-Kapitels Medizinprodukte
+Marktüberwachung der EU integriert. Dazu gehörtezinprodukte. Da die Schweiz seit der Nicht-Aktualisierung
+Swissmedic keinen Zugriff auf die neue Datenbank
+Über Eudamed könnte Swissmedic auf Informationenweitere Behördeninformationen aus der EU zugreifen.41
+für sie besonders einschneidend und bedeutet einen
+Doppelspurigkeiten im Vollzug bei einer gleichzeitig
+Konkret würden die Verwaltungsverfahren insbesonderechen Zusatzaufwand bedeuten. Da Abklärungen,
+bei Schweizer Akteuren erfolgen können, fehlennen, die den EU-Behörden vorliegen. Zudem werden
+Versuche, welche in Eudamed hinterlegt werden,
+heblichen Zusatzaufwand, um die Qualität des Vollzugsund dafür zu sorgen, dass bei nicht (mehr) konformen
+die notwendigen Massnahmen, z. B. ein Marktrückzug,
+40 Hierzu gehören öffentlich verfügbare Information, wie z. B. diepunktuelle Informationen aus den übrigen Interviews.
+41 Informationen des Eudamed werden oftmals nicht oder erst späternehmen.
+42 Das entsprechende Modul von Eudamed ist jedoch noch nicht
+43 Um dem entgegenzuwirken, habe Swissmedic ergänzende Massnahmenher gäbe es demnach noch keine Hinweise, dass nicht-konforme
+der EU.
+INFRAS | 14. Februar 2025 | Auswirkungen in der öffentlichen Verwaltung
+
+aus vertieften Interviews mit Verterter:innen
+Wenn und soweit möglichverifiziert, plausibilisiert und ergänzt.
+wirkt sich nicht nur bei den Unterbetroffen. Nachfolgend werden die Folgensowie den damit verbundenen Aufwand
+mit der EU
+war Swissmedic voll in dieder Zugriff auf EU-Datenbanken für Medides MRA als Drittstaat gilt, erhält
+Eudamed.
+zu Überwachungsaktivitäten und
+Ein Wegfall dieser Informationen seihöheren Aufwand für Swissmedic mit
+weniger effizienten Marktüberwachung.
+bei Verdachtsfällen einen erheblizu Produkten, die aus der EU stammen, nurmöglicherweise zudem wichtige InformatioSwissmedic Informationen über klinischefehlen.42 Es braucht entsprechend einen ermöglichst äquivalent zur EU zu halten
+Produkten auch in der Schweiz zeitnahumgesetzt werden.43
+Regulierung oder weitere Behördendokumentationen, sowieveröffentlicht, z. B. wenn die EU ein Produkt vom Markt
+implementiert.
+umgesetzt und setze zusätzliche Ressourcen ein. BisProdukte in der Schweiz länger auf dem Markt bleiben als in
+
+|41
+Aufbau Schweizer Datenbank für Medizinprodukte
+Damit die Ziele der besseren Transparenz auch in
+Swissmedic derzeit daran, eine Schweizer Datenbankbauen. Die Entwicklung ist allerdings aufwändig
+Die Datenbank swissdamed wird jedoch nicht nursundheitswesen der Schweiz einen erheblichen Mehrwert
+parent die verantwortlichen Akteure der Medizinprodukteder Schweiz in Verkehr gebrachten Medizinprodukte
+separate Datenbank führt jedoch dazu, dass sichin Eudamed registrieren müssen, sondern auch in
+Wegfall koordinierter Vollzug mit der EU
+Die Zusammenarbeit der EU und der Schweiz gingein Prozess für einen koordinierten Durchsetzungsrahmen
+dere EU-Behörden Swissmedic zu bestimmten Fällenmedic gemeinsam mit anderen EU-Behörden koordinieren,
+weiterverfolgt werden. Das erlaubte beispielsweise,
+jeweiligen Sitzländern der betroffenen Unternehmen
+Aufgrund der Nicht-Aktualisierung des MRA
+ger. Marktüberwachungsmassnahmen von Swissmedicmächtigte und/oder Importeure stattfinden. Dieser
+spurigkeiten insbesondere dann viel Mehraufwand,
+teure in der Schweiz aktiv sind. Der Vollzug der Regulierungführt zu Mehrkosten gegenüber der Situation mit
+Vertretung der Schweiz in internationalen Gremien
+Swissmedic war über die Arbeitsgruppen der EU
+mentlich dem International Medical Device Regulatorsnicht mehr in EU-Gremien mitarbeitet, entfällt die
+Swissmedic beteiligt sich jetzt selbst direkt imsierung die Regulierungspraxis der Schweiz einbringen
+Schweiz zu vertreten. Die fehlende Vertretung viakompensieren: Eine vollwertige Mitgliedschaft im
+müsse sich Swissmedic zunächst erarbeiten. Die
+44 Der Aufwand wird u. a. auch dadurch erhöht, dass die Datenbankder zu einer Zusammenarbeit gemäss MRA kommt.
+INFRAS | 14. Februar 2025 | Auswirkungen in der öffentlichen Verwaltung
+
+der Schweiz umgesetzt werden können, istfür Medizinprodukte (swissdamed) aufzu-
+(siehe hierzu Abschnitt 5.2.4 für die Kosten).44
+für Swissmedic, sondern für das ganze Gegenerieren. Dies da erstmals transBranche sowie insbesondere die inund In-vitro Diagnostika bekannt sind. Die
+Unternehmen und deren Produkte nicht nurder Schweizer Datenbank.
+über den Zugang zu Eudamed hinaus. So waretabliert. Das bedeutete, dass anAuskunft erteilten. Zudem konnte Swisswie Meldungen von Verdachtsfällendass Fälle direkt von den Behörden in den
+verfolgt werden konnten.
+seien diese Fallbearbeitungen nun aufwändimüssten nun über Schweizer Bevollindirekte Zugang verursacht neben Doppelwenn für ein Produkt mehrere solche Akist daher weniger effizient und
+MRA.
+durch die EU
+auch in internationalen Gremien vertreten, naForum (IMDRF). Da die Schweiz nun
+Vertretung ihrer Positionen über die EU.
+IMDRF, um bei der internationalen Harmonizu können und damit die Interessen der
+EU könne Swissmedic jedoch nicht einfach
+Management Committee, wie die EU sie hat,
+Expert:innen von Swissmedic arbeitetenmit der Eudamed äquivalent sein soll, falls es zukünftig wie-
+
+42|
+deswegen ab dem Jahr 2021 zunächst in verschiedenen
+Frühjahr 2023 den Status als Offical Observer anerhalten hat.45 Dies gilt als wichtiger Zwischenschritt
+Der Aufwand an Arbeitsstunden für die eigeneetwa den Wegfall des Aufwands der Teilnahme in
+doch mit einer vollwertigen Mitgliedschaft im IMDRF
+5.2.2. Eingeschränkte Beteiligung bei Weiterentwicklung
+Die Schweizer Behörden wurden seit dem Abbruchgen Zusammenarbeit mit 14 Arbeitsgruppen in der
+pen wird die Regulierungsentwicklung des neuenauslegung diskutiert. Die erschwerte Zusammenarbeit
+Schweiz bei der Ausgestaltung und Weiterentwicklungihre eigenen Interessen nicht mehr einbringen kann,
+Erkenntnisse aus dem Vollzug in der Schweiz nicht
+Neben fehlenden Gestaltungsmöglichkeitenfür die (autonome) Weiterentwicklung der Regulierung.
+EU-Arbeitsgruppen eine eigene Praxis der MepV
+tation und Auslegung der Regulierung ausarbeiten.
+zu jener der EU sein. Ohne einen direkten Austauschauf öffentlichen Informationen kann dies jedoch
+Eine eigene Schweizer Regulierung zu entwickelnzeitverzögert stattfinden, dies bestätigen das BAG
+dies einen zusätzlichen Aufwand (zusätzliches Personal),
+der Nicht-Aktualisierung zuzuschreiben. Das fehlendenahmen zu erarbeiten, um die Versorgung und die
+währleisten. Zudem führe die Nicht-Aktualisierung
+Arbeit bei jeder Regulierungsrevision, da der Statuswerden müsse. Insgesamt sei durch das fehlende
+Auch für Swissmedic sei es aufwändiger, einehier der Mehraufwand nicht klar beziffert werden
+gruppen der EU bedeute zunächst grundsätzlichdie eigenständige Entwicklung einer Regulierungspraxis
+nalen Zusammenarbeit wiederum deutlich aufwändiger.
+45 Siehe https://www. swissmedic. ch/swissmedic/de/home/news/mitteilungen/swissmedic-official-observer-imdrf. htmlaufgerufen am 19.12.2024].
+INFRAS | 14. Februar 2025 | Auswirkungen in der öffentlichen Verwaltung
+
+Arbeitsgruppen mit, bis die Schweiz imden Sitzungen des Management Committee
+zur Aufnahme als vollwertiges Mitglied.
+Teilnahme am IMDRF kompensiere bisher inden EU-Arbeitsgruppen. Dieser wird sich jeweiter erhöhen.
+des Regulierungssystemsder Verhandlungen zum InstA aus der enEU ausgeschlossen. In diesen ArbeitsgrupMDR und IVDR besprochen sowie die Praxiswirkt sich auf die Mitwirkung derder Regulierung aus. Wenn die Schweiz
+werden schweizerische Eigenheiten undberücksichtigt.
+fehlten der Schweiz wichtige Informationen
+Swissmedic muss ohne Einbezug in dieund der IvDV entwickeln, sprich eine InterpreDie Praxis sollte im besten Fall äquivalentmit den EU-Behörden und nur basierend
+nicht sichergestellt werden.
+sei zudem aufwändiger und könne nurwie auch Swissmedic. Für das BAG bedeute
+aber es sei schwierig dies eindeutig
+MRA erfordere es, flankierenden MassMarktüberwachung in der Schweiz zu gezu komplexeren Aufgaben und zusätzlicherder Schweiz als Drittstaat berücksichtigt
+MRA die Planbarkeit der Arbeiten erschwert.
+eigene Praxis zu entwickeln. Wobei ebenfallskann. Die fehlende Teilnahme in den Arbeitsweniger personeller Aufwand. Allerdings sei
+sowie der neue Aufbau der internatio-
+[zuletzt
+
+|43
+5.2.3. Zusätzlicher Verwaltungsaufwand
+Überwachung zusätzlicher Marktakteure
+Aufgrund der neuen Rechtsordnung ohne MRA müssen
+Schweiz liefern, einen Schweizer Bevollmächtigtenzunächst bei Swissmedic registrieren (Stand Oktober
+Neben einem zusätzlichen Aufwand für in diedeute dies für Swissmedic eine Vielzahl neuer Marktakteure,
+ten. Dies erhöhe den Verwaltungsaufwand deutlich.
+Schwerpunktaktionen durch. Das Ziel hierbei ist,
+Schwerpunktthemen zu überwachen und die Erkenntnisse
+Verbesserung zu publizieren.46 In erster Linie sollzu den geltenden Regulierungen gestärkt und die
+durch die Akteure selbst gefördert werden. Diesnen, sondern die Resultate müssten auch ausgewertet
+Auch unter einem MRA hätte Swissmedic wahrscheinlichführt, dies jedoch koordiniert mit Überwachungsaktivitäten
+durch die Nicht-Aktualisierung des MRA ausgelösterin, dass eigene Aktivitäten konzipiert und dabei
+wachen ist (Bevollmächtigte).
+Ausnahmebewilligungen und Free Sales Certificates
+In Ausnahmefällen können Medizinprodukte, welcheden, eine Ausnahmebewilligung erhalten.47 Dieses
+rung eingeführt und soll die Versorgungssicherheit
+Nicht-Aktualisierung des MRA liegen Swissmedicbewilligungen von Medizinprodukten in der EU vor.
+für Ausnahmebewilligungen, welcher mit einem
+Ebenfalls ist es möglich, für ausgeführte Medizinprodukte,
+fähig sind, Exportzertifikate (FSC) zu beantragen.
+von Medizinprodukte in Drittstaaten und warenfür Unternehmen verfügbar.
+46 Siehe https://www. swissmedic. ch/swissmedic/de/home/medizinprodukte/marktkontrolle-medizinprodukte/schwerpunktaktionen. html#:~:text=Swissmedic%20%C3%BCberwacht%20den%20Medizinproduktemarkt%20gezielt, f%C3%BCr%20ihre%20Pflichten%20zu%20sch%C3%A4rfen.
+47 MepV Art. 22 Abs. 1 und 2 und IvDV Art. 18 Abs. 1 und 2.
+INFRAS | 14. Februar 2025 | Auswirkungen in der öffentlichen Verwaltung
+
+Hersteller in der EU, sofern diese in diestellen. Diese Bevollmächtigten müssen sich
+2024: 1'095 Bevollmächtigte).
+Schweiz importierende Unternehmen bewelche überwacht werden müssUnter anderem führt Swissmedic gezielteden Markt jährlich gezielt zu bestimmten
+zur breiteren Sensibilisierung unddadurch das Bewusstsein der Unternehmen
+bessere Wahrnehmung ihrer Verantwortungbeinhalte nicht nur die Ausführung der Aktiound publiziert werden.
+vergleichbare Aktionen durchgeder EU Partnerbehörden. Der
+Mehraufwand besteht daher vor allem daeine grössere Anzahl Marktakteure zu über-
+(FSC)
+in der Schweiz in Verkehr gebracht werInstrument wurde mit der neuen Reguliein der Schweiz gewährleisten. Aufgrund derkeine Informationen zu EU-weiten AusnahmeDies führe bei Swissmedic zu Mehraufwandgültigen MRA nicht notwendig gewesen wäre.
+welche in der Schweiz verkehrsLetztere werden ausgestellt für den Exportbereits vor der Nicht-Aktualisierung des MRA
+[zuletzt aufgerufen am 19.12.2024].
+
+44|
+Da die Schweizer Konformitätsbewertungsstellemehr anerkennt werden, beantragen exportierende
+dic. Swissmedic stellt aus diesem Grund einen Anstiegeinem Mehraufwand bei Swissmedic. Zudem sei
+in der vorherigen Form nicht mehr nutzbar, wassowie der Kommunikation an die Rechtseinheiten
+führte Prozess erfordere eine vertieftere Prüfunglen Anstieg der Gesuche zu einem zusätzlichen Arbeitsaufwand.
+5.2.4. Quantifizierung der zusätzlichen Verwaltungskosten
+Die oben angeführten Mehraufwände sollen so weit
+Der Mehraufwand fällt in erster Linie bei Swissmedicwerden. Dabei ist zu beachten, dass eine genaue
+mals schwierig ist und auch nicht alle Mehraufwendungen
+Die folgende Aufstellung der Kosten ist daher eherzusätzlichen Verwaltungskosten anzusehen.
+Für Vollzugstätigkeiten vor Inverkehrbringenca. 3 Vollzeitäquivalente (VZÄ) einstellen. Wenn
+240'000 (inkl. Lohn, Lohnnebenkosten, Arbeitsplatz
+Vollzugskosten vor Inverkehrbringen der Produkte
+Um den gestiegenen Vollzugsaufwand für Medizinproduktecken, schätzt Swissmedic den Bedarf auf zusätzlich
+auf rund CHF 3.8 Mio. pro Jahr. Insgesamt fallensätzlich an Verwaltungskosten an.
+Die Entwicklung von swissdamed, der Schweizerischenhat Swissmedic an einen externen IT-Dienstleister
+Implementierung der Produktregistrierung kostet
+Der bisherige zusätzliche laufende interne Verwaltungsaufwand
+Datenbank ist in der Berechnung weiter oben miteinbezogennach vollständiger Implementierung der Datenbank
+dukte und In-vitro-Diagnostika (ca. 4 Millionen Produkte)
+(Schweizer Hersteller und Bevollmächtigte) ist noch
+Gemäss Swissmedic werden die Kosten derüber den Bund finanziert. Dadurch werden die Unternehmen – sichtsabgabe belastet.
+INFRAS | 14. Februar 2025 | Auswirkungen in der öffentlichen Verwaltung
+
+und dessen Zertifikate in der EU nicht
+Unternehmen vermehrt FSC bei Swissmebei Anträgen für FSC fest. Das führe zudas FSC und der Prozess für die Beantragung
+Anpassungen der Formulare und Zertifikateauf der Homepage erforderte. Der neueingeder Gesuche und führe neben dem generelwie möglich noch quantifiziert werden.
+an, und kann auch nur dort quantifiziert
+Zuordnung zu einzelnen Tatbeständen oftspezifisch erfasst werden können.
+grob und als untere Grenze der effektivender Produkte musste Swissmedic zusätzlich
+man von jährlichen Kosten pro VZÄ von CHF
+etc.) ausgeht, dann belaufen sich hier dieauf ungefähr CHF 720'000 pro Jahr.
+nach Inverkehrbringen abzuderund 16 VZÄ. Die Kosten belaufen sich somitalso zusätzlich etwa CHF 4.6 Mio. pro Jahr zuDatenbank für Medizinprodukte,
+vergeben. Der Aufbau der Plattform bis zur
+Swissmedic ungefähr CHF 6 Mio. einmalig.
+für die Bewirtschaftung der
+(2-4 VZÄ). Der Zusatzaufwandmit der Registrierung aller Medizinprodurch rund 2'000 bis 3'000 Akteure
+in Evaluation.
+Überwachung der Medizinprodukte derzeit – nicht direkt z. B. über eine Auf-
+
+|45
+6. Patientenund Versorgungssicherheit
+Abgrenzung Nicht-Aktualisierung des MRA und
+Eine der Hauptschwierigkeiten der Analyse ist, die
+MRA auf die Patientenund Versorgungssicherheitden Effekten der verschärften Regulierungen (MDR/IVDR).
+oder eine Datenanalyse kann die einzelnen Effekteher gewisse Datenanalysen mit einer qualitativen
+teure. Aber auch in diesem Ansatz zeigen sich die
+Akteure äusserten die Einschätzung, dass die Auswirkungennicht oder nur schlecht voneinander zu trennen
+Marktkonsolidierung und Portfoliobereinigungen
+Mit dem Drittstaatenmodus der Schweiz und dendelshemmnissen haben sich die Hürden für den
+stark erhöht. Betroffen dabei ist vor allem der Import
+Der Grund dafür ist, dass für viele EU-Herstellerden Schweizer Markt zu beliefern: Gemäss Swiss
+Schweizer Markt zu klein, als dass sich die höherenschätzt kurz nach der Nicht-Aktualisierung des MRA,
+liobereinigung von 15% der Importprodukte geführthergestellten Produkte). Seitens der Diagnostikbranche
+foliobereinigungen von 5% aus. Swissmedic gibtschen den Auswirkungen MRA und der strengeren
+foliobereinigungen, die stattgefunden haben, vornotwendigen neuen Zertifikate zurückzuführen,
+MRA. Die Einschätzungen zu den Portfoliobereinigungen,
+Aktualisierung MRA abgegeben wurden, könnten
+Der befragte Experte für Offizin-Apothekenlisierung des MRA wenig Einfluss auf die Produktverfügbarkeit
+elle Veränderungen keinen relevanten Nachteil mithatten diese Bereinigungen keine signifikanten Auswirkungen,
+dukten tieferer Risikoklassen handelten und es hier
+48 Dies wird von den befragten Akteuren bestätigt. Seitens der Schweizerwenn ein Hersteller entscheidet, aufgrund der zusätzlichen Kosten
+oder einzustellen. Dies ist jedoch wenig der Fall, wie oben diskutiert
+Investitionen in Innnovation auswirken, was aber derzeit noch nicht
+INFRAS | 14. Februar 2025 | Patientenund Versorgungssicherheit
+
+der verschärften Regulierung
+Auswirkungen der Nicht-Aktualisierung desabzugrenzen von den gleichzeitig eintretenEine reine Analyse der Entwicklungnicht unterschieden. Wir kombinieren daAnalyse basierend auf den Aussagen der AkHerausforderungen: Viele der interviewtenbeider Ereignisse auch qualitativ
+seien.
+dadurch wieder wirksamen technischen HanAbsatz von Medizinprodukten in der Schweizin die Schweiz.48
+die zusätzlichen Kosten zu hoch sind, um
+Medtech (Branchenstudie 2022) ist der
+Kosten amortisieren liessen. Swiss Medtechdass dieses allein zu einer Produkteportfohabe (und von 7% bei den in der Schweiz
+geht ihr Verband SVDI von einer Portjedoch zu bedenken, dass die Abgrenzung zwiRegulierung schwierig sei. So seien die Portallem auf die mit der revidierten Regulierungund weniger auf die Nicht-Aktualisierung des
+gerade auch da sie direkt nach Nichtdie Wirkung tendenziell überschätzen.
+bestätigen den Eindruck, dass die Nicht-Aktuain der Schweiz hat bzw. eventusich brachten. Für die Offizin-Apothekenda diese in der Regel mit Prooft viele Ersatzprodukte gäbe. Auch der
+Produzenten kann sich vor allem dann etwas ändern,
+der Lieferung aus der Schweiz die Produktion zu verlagernwurde. Längerfristig könnten sich zudem die geringeren
+feststellbar ist.
+
+46|
+Verein der Amtsund Spitalapotheken (GSASA) spürt
+Nicht-Aktualisierung des MRA. Gemäss Swissmedicsen Aufwand dabei, alternative Produkte zu suchen,
+Das sei jedoch nicht nur in der Schweiz, sondernmit wohl in der verschärften Regulierung; das MRA
+Von Seiten des SVDI wurde angemerkt, dass
+Schweiz (FAMH) den Wegfall bestimmter Spezialteststikfirmen hätten den Verkauf dieser Tests in der
+worden sei in die Schweiz zu liefern. Es ist jedoch
+Nicht-Aktualisierung des MRA zurückzuführen ist
+Grund dafür waren.
+Auf das Produktportfolio der Händler hattekung, wie oben diskutiert: Im Extremfall führte sie
+duktsortiments. Mehrheitlich waren die Auswirkungenstitutionsprodukte aufgefangen werden. Bezogen
+tens der Händler angedeutet, dass die Nicht-Aktualisierung
+Sorten von Commodity-Medizinprodukten (Risikoklassekeit von einzelnen Nischenprodukten beeinflusste.
+selten genutzten, aber im Bedarfsfall existenziellten, da deren Hersteller aufgrund der Nicht-Aktualisierung
+die Schweiz zu liefern. Im Zusammenhang mit derdizinproduktmarkts vermuteten einige Händler,
+dierung kleinerer Händler führen könnte, mit potenziellenbewerb. Insgesamt nehmen die Händler also eine
+war, welche aber keine substanziellen Auswirkungen
+Versorgungssicherheit hat.
+Grundsätzlich sind sich die befragten Akteurelierung auf die Produktevielfalt bedeutend grösser
+rung des MRA. Befürchtungen, dass es zu deutlich
+Aktualisierung kommt, waren eher überzeichnet.
+MRA einen negativen Einfluss auf die Produktevielfalt.
+Auswirkungen auf die Medizinproduktepreise
+Die zusätzlichen administrativen Kosten liegen imreich des Umsatzes der Hersteller bzw. Händler
+fangs müssen diese Kosten an irgendeiner Stelle
+INFRAS | 14. Februar 2025 | Patientenund Versorgungssicherheit
+
+keine grossen Auswirkungen durch diehätten aber vor allem Spitäler einen groswelche nicht mehr angeboten würden.
+auch in der EU der Fall. Die Ursache liegt daspielt hier keine spürbare Rolle.
+der Verband der medizinischen Laboratorienbeklagt habe. Die betreffenden DiagnosSchweiz eingestellt, da es für sie zu teuer genicht klar, ob dieser Entscheid rein auf dieoder die verschärften Regulierungen der
+die Nicht-Aktualisierung eine ambivalente Wirzu einem markanten Rückgang des Projedoch gering oder konnten durch Subauf den Schweizer Gesamtmarkt wurde seiEinfluss auf die Anzahl verfügbarer
+1) hatte und sicherlich die VerfügbarEs gibt Händler, die die Verfügbarkeit vonnotwendigen Medizinprodukten gewährleisnicht mehr bereit waren, diese in
+zukünftigen Entwicklung des Schweizer Medass die Nicht-Aktualisierung zu einer KonsoliAuswirkungen auf den Importwettgewisse Verschlechterung der Marktsituationauf die Marktfunktion an sich oder die
+einig, dass die Effekte der verschärften Regugewesen seien als jene der Nicht-Aktualisiespürbaren Engpässen aufgrund der NichtTrotzdem hatte die Nicht-Aktualisierung des
+Mittel zwar im tiefen einstelligen Prozentberesp. darunter. Trotz des relativ geringen Umgetragen werden: Entweder drücken sich
+
+|47
+diese in den Preisen aus, werden von den Unternehmenaber durch Effizienzgewinne an anderer Stelle kompensiert.
+konsolidierung, insbesondere wenn gewisse Produkte
+Marktmacht für einzelne Produkte ändern. Tendenziell
+Nicht-Aktualisierung des MRA möglich.
+Der schweizerische Produktepreisindex (PPI)
+parate und Materialien (NOGA 32.5) sowie Bestrahlungs-,
+nische Geräte (NOGA 26.6) ist in Abbildung 7 dargestellt.
+Abbildung 7: Schweizer Produktepreisindex PPI
+Jan. März Mai Juli Sept. Nov.
+2020 2020 2020 2020 2020 2020 2021
+PPI (CH) Medizinische und zahnmedizinische
+PPI (CH) Bestrahlungs-, ElektrotherapieBasis: Dez.2020=100
+Grafik INFRAS. Quelle: Produktepreisindex (PPI), BFS und Erzeugerpreisindex
+Die Produkte der medizinischen und zahnmedizinischenzwischen Januar 2021 und Juni 2021 einen Anstieg
+schub fällt zeitlich mit der Nicht-Aktualisierung destechnischen Handelshemmnisse zusammen. Allerdings
+bis Ende 2021 wieder auf das ursprüngliche Niveau
+INFRAS | 14. Februar 2025 | Patientenund Versorgungssicherheit
+
+zulasten ihrer Marge getragen oder
+Zudem kann sich mit der Marktnicht mehr verfügbar sein sollten, diewären somit höhere Preise durch die
+der medizinischen und zahnmedizinischen ApElektrotherapieund elektromediziNicht-Aktualisierung MRA
+Jan. März Mai Juli Sept. Nov.
+2021 2021 2021 2021 2021
+Apparate und Materialienund elektromedizinische Geräte
+gewerblicher Güter, Destatis.
+Apparate und Materialen verzeichnendes Preisindex um etwa 1.9%. Dieser PreisMRA und damit der Wiedereinführung derist der Preisindex im weiteren Verlauf
+zurückgefallen. Da gleichzeitig zahlreiche
+
+48| – andere Entwicklungen stattgefunden haben neben
+MDR ist hier auch die Corona-Pandemie49 zu nennen,
+lichen Verwerfungen geführt hat. Aus diesen Beobachtungenden, dass die Nicht-Aktualisierung des MRA zu einem
+führt hätte. Dass im Bereich Bestrahlungs-, Elektrotherapiekeine Preiseffekte zu beobachten sind, stärkt dies.
+Abbildung 8: Schweizer Produktepreisindex und
+PPI und EPI (in CHF)
+Jan. März Mai Juli Sept. Nov.
+2020 2020 2020 2020 2020 2020 2021
+PPI (CH) Medizinische und zahnmedizinische
+PPI (CH) Bestrahlungs-, ElektrotherapieEPI (DE) Medizinische und zahnmedizinische
+EPI (DE) Bestrahlungs-, ElektrotherapieDer Erzeugerpreisindex ist in Schweizer Franken umgerechnet.
+Grafik INFRAS. Quelle: Produktepreisindex (PPI), BFS und Erzeugerpreisindex
+Um mögliche Effekte des MRA erkennen zu können,
+noch mit der entsprechenden Preisentwicklung indie Vergleichbarkeit herzustellen, wurde dabei der
+in Schweizer Franken umgerechnet und wie derten Halbjahrs 2021, zum Zeitpunkt der Nicht-Aktualisierung
+deutlicher Anstieg der Preise zu beobachten (Januar
+49 Und die damit einhergehenden direkten Folgen auf den Gesundheitsbereich,
+INFRAS | 14. Februar 2025 | Patientenund Versorgungssicherheit
+
+der wichtigen Neuregulierung mit demwelche im ersten Halbjahr 2021 zu erhebkann also nicht geschlossen werklaren Effekt in der Preisentwicklung geund elektromedizinische Geräte
+deutscher Erzeugerpreisindex (in CHF)
+Nicht-Aktualisierung MRA
+Jan. März Mai Juli Sept. Nov.
+2021 2021 2021 2021 2021
+Apparate und Materialienund elektromedizinische Geräte
+Apparate und Materialienund elektromedizinische Geräte
+Basis: Dez.2020=100
+gewerblicher Güter, Destatis.
+wird die Preisentwicklung in der Schweiz
+Deutschland verglichen (Abbildung 8). Umvergleichbare deutsche Erzeugerpreisindex
+Schweizer PPI normiert. Für die Phase des ersdes MRA; ist hier ebenfalls einbis Juni 2021 um etwa 1.7% für
+vgl. z. B. Swiss MedTech (2024).
+
+|49
+medizinische und zahnmedizinische Apparate undder Anstieg in der Schweiz nicht spezifische auf das
+sant ist hingegen die Preisentwicklung im restlichensind die Preise, umgerechnet in Schweizer Franken,
+Schweiz wieder stabilisiert haben. Der Zeitraumhen, dies könnte aber doch ein erster Hinweis darauf
+MRA zu differenzierten Preisentwicklungen geführtden Entwicklungen der Preisindizes im Jahr 2020,
+ausschlaggeben sein könnten.
+Aus den Gesprächen mit einzelnen Akteurenentwicklung. Bei den Offizin-Apotheken seien zwar
+sei aber für sie nicht unterscheidbar, ob diese aufoder die Nicht-Aktualisierung zurückzuführen gewesen
+Amtsund Spitalapotheken (GSASA) lässt sich ebenfallserhöhungen aufgrund der Nicht-Aktualisierung des
+Auswirkungen auf die Patientenund Versorgungssicherheit
+Alles in allem lässt sich aus den qualitativen undviews schliessen, dass es zwar wohl zu einer gewissen
+men ist und womöglich zumindest punktuell undfeststellbar waren. Dies wird jedoch überwiegend
+welche die Auswirkungen der Nicht-Aktualisierungeinseitige Anerkennung der EU-Konformitätsbewertungen
+beigetragen, die Effekte der Nicht-Aktualisierung
+Es lässt sich somit nicht feststellen, dass diekanten Verschlechterung der Situation in der Schweiz
+gungssicherheit und der Preise geführt hätte. Angesichts
+Analyse und der schwachen Datenlage kann nichtteile der Nicht-Aktualisierung auf Ebene Patientenversorgung
+entstehen werden. Gemäss den befragten Fachpersonenausgegangen werden, dass Auswirkungen auf Patienten
+sind.
+INFRAS | 14. Februar 2025 | Patientenund Versorgungssicherheit
+
+Materialien). Dies deutet darauf hin, dass
+MRA zurückzuführen sein dürfte. InteresVerlauf des Jahres 2021: In Deutschlanddeutlich gefallen, während sie sich in der
+ist zu kurz, um klare Schlussfolgerungen zu ziesein, dass die Nicht-Aktualisierung deshat. Allerdings zeigen auch die differierendass auch andere Gründe als das MRA dafür
+ergeben sich weitere Hinweise auf die PreisPreiserhöhungen bemerkbar gewesen, esdie Inflation, die verschärften Regulierungen
+seien. Aus der Antwort des Vereins derschliessen, dass keine markanten PreisMRA bemerkbar waren.
+quantitativen Informationen aus den InterReduktion der Produktevielfalt gekomvorrübergehend auch gewisse Preiseffekteder verschärften Regulierung zugeschrieben,
+des MRA um ein Vielfaches übersteigt. Dieseitens der Schweiz hat ebenfalls
+des MRA in der Schweiz gering zu halten.
+Nicht-Aktualisierung des MRA zu einer signifihinsichtlich der Patientenund Versorder erheblichen Unsicherheiten in derausgeschlossen werden, dass gewisse Nachund Preisen vorliegen oder noch
+und Unternehmen kann aber davonnicht in grossem Ausmass aufgetreten
+
+50|
+7. Gesamtbeurteilung/Fazit
+Nicht-Aktualisierung MRA Medizinprodukte bringt
+Die Nicht-Aktualisierung des MRA verursacht fürtrotz Auffangmassnahmen der Schweiz wie z. B. der
+bewertung aus der EU. Rechnet man die erhobenenche, ergeben sich einmalige Kosten von 0.3% bis
+bis 0.7% des Umsatzes bei Händlern. Für die Herstellergen zwischen 0.10% und 0.14% des Umsatzes. Bei
+Kosten zwischen 0.3% und 0.4% des Umsatzes. Esnicht alle Kosten erfasst werden konnten, wobei
+Kostenelemente darstellen dürften.
+Unsicherheit der Aussagen muss beachtet werden
+Die Hauptaussagen der Studie basieren massgeblichan betroffenen Unternehmen (14 Hersteller, 11
+um für die Branche repräsentativ zu sein, zudembereitschaft und strategisches Antwortverhalten
+Hinweise identifiziert werden konnten. Zudem konnten
+Gründen oder wegen fehlenden Informationen bei
+Sämtliche Resultate sind mit entsprechender Vorsicht
+Durchschnittliche Kosten aus dieser Studie liegen
+Die gefundenen Kosten für die Branche liegen unterhalbverbands, welcher Kosten von 1% bis 2% des Umsatzes
+Beide Studien weisen Vorund Nachteile auf, undinhaltlich mögliche Ursachen für die Unterschiede.
+Studien und der grossen Heterogenität ist zu konstatieren,
+im Bereich des Möglichen liegen. Der Vergleich mit
+BAK (2015) zeigt mit 0.4% bis 1% des Umsatzes ebenfallsbei dort nicht spezifisch die Medizinprodukte, sondern
+reiche einbezogen wurden, was die Vergleichbarkeitnoch näher bei den hier ermittelten Grössenordnungen.
+dass es nur in der vorliegenden Studie möglich war,
+insbesondere die unilaterale Anerkennung der EU-Konformitätsbewertung,
+INFRAS | 14. Februar 2025 | Gesamtbeurteilung/Fazit
+
+Mehrkosten für Hersteller und Händlerbeinahe alle befragten Unternehmen Kosten,
+einseitigen Anerkennung der KonformitätsInformationen hoch auf die Gesamtbran0.7% des Umsatzes bei Herstellern und 0.6%
+belaufen sich die jährlichen Aufwendunden Händlern betragen die wiederkehrendengibt allerdings Gründe, anzunehmen, dass
+die fehlenden Kosten tendenziell die kleinerenauf Informationen eines kleinen Samples
+Händler). Die Stichprobe ist nicht ausreichend,
+ist ein Selbstselektionsbias bei der Teilnahmemöglich, auch wenn dafür keine konkretengewisse Kosten aus systematischen
+den Unternehmen nicht erfasst werden.
+zu interpretieren.
+tendenziell tiefer als in früheren Studienfrüherer Schätzungen des Branchenberechnet hat (Swiss Medtech, 2022).
+es gibt sowohl erhebungstechnisch als auch
+Angesichts des kleinen Samples in beidendass die Ergebnisse beider Studien
+den Studien von Ecoplan (2015, 2025) undhöhere unterstellte Mehrkosten, woalle vom MRA abgedeckten Produktbeeinschränkt. Die Werte liegen damit denBei den Vergleichen ist zu beachten,
+die unilateralen Massnahmen der Schweiz,
+sowie die Effekte
+
+|51
+möglicher Effizienzgewinne über die Zeit zu berücksichtigen.
+dieser Studie ausgewiesenen Mehrkosten Umsatzeinbussendelsverluste nicht berücksichtigt.
+CH-REP bzw. EU-REP das wichtigste Kostenelement
+Die Bevollmächtigten in der EU resp. der Schweiztenblock für Hersteller und Händler aus und werden
+geben. Andere Kostenblöcke sind indes stark unternehmensspezifischwisse Händler sehr hohe Kosten aufgrund der neuen
+mussten einige Hersteller wiederrum in ihr Qualitätssicherungsmanagement
+Unternehmen sehr unterschiedlich betroffen
+Die Nicht-Aktualisierung des MRA hat also auf dietive Auswirkungen, jedoch sind die Unternehmen
+Unternehmen führte die Nicht-Aktualisierung desdessen stuften andere Unternehmen die mit der
+mischen wie regulatorischen Anforderungen als
+Kosten im Branchenschnitt werden stark von Grossunternehmenhem Gewicht eingehen. Diese können mit den Anpassungen
+vorhandene Strukturen gut umgehen.
+Kleine und mittlere Unternehmen hingegenzierte Betrachtung nach Unternehmensgrösse zeigt:
+Umsatz schnell das 10-fache und mehr der Kosten
+Kosten von bis um 5% des Umsatzes und laufendenhen substanzielle Zusatzbelastungen im internationalen
+Noch deutlicher werden die Unterschiede, wenneinzelnen Unternehmen fokussiert. Bei einem Viertel
+die einmaligen Kosten der Nicht-Aktualisierung desden Kosten pro Jahr liegt der Wert bei 2.3%. Derartige
+erhebliche Wettbewerbsnachteile dar. Hierzu passt,
+sierung 30% der Hersteller angegeben haben, mitwerbsnachteile erfahren zu haben. Während im
+Schweizer Volkswirtschaft die Belastung durch diehung darstellt, sind die Belastungen aus Sicht einzelner
+Etwas weniger heterogen ist die Situation beiunternehmen hier weniger klar im Vorteil zu sein.
+INFRAS | 14. Februar 2025 | Gesamtbeurteilung/Fazit
+
+Gleichzeitig sind jedoch in den inund damit einhergehende Hanmachen grundsätzlich einen wichtigen Kosauch von (fast) allen Unternehmen angegeprägt. Während geProduktekennzeichnung aufwendeten,
+investieren.
+befragten Unternehmen ausnahmslos negaunterschiedlich stark betroffen. Bei einzelnen
+MRA zu existenziellen Problemen. WährendNicht-Aktualisierung einhergehenden ökonovernachlässigbar ein. Die tiefen ermitteltengeprägt, welche dort mit hoaufgrund der hohen Fallzahlen und
+haben damit mehr Mühe, wie die differenSo betragen deren Kosten in Relation zumbei den Grossunternehmen. Mit einmaligen
+Kosten bis 1.3% bei den Herstellern entsteWettbewerb.
+man anstatt auf Durchschnitte auf diealler befragten Schweizer Hersteller lagen
+MRA bei 9.3% oder darüber; für die laufenzusätzliche Kostenbelastungen stellendass auch 3 Jahre nach der Nicht-Aktualider Nicht-Aktualisierung erhebliche WettbeBranchenmittel und somit auch aus Sicht der
+Nicht-Aktualisierung des MRA keine BedroUnternehmen erheblich.
+den Händlern, insbesondere scheinen GrossZudem stehen diese Unternehmen anders
+
+52|
+als die Hersteller nicht im internationalen Wettbewerbchen Zusatzbelastungen betroffen.
+Die Nicht-Aktualisierung des MRA führt zu Unsicherheit
+Beim Standort sind gewisse Verlagerungstendenzentel der Unternehmen hat eine Verlegung des Standortes
+heit der Unternehmen weiterhin für die Schweiz
+Standortfaktoren der Schweiz für sie überwiegenwar. Auf der Seite der Händler haben lediglich jene
+eine Verlagerung geprüft, ohne jedoch eigene Aktivitätenohne ausländische Tochtergesellschaften sind hingegen
+den. Von ihnen prüfte daher keines eine Verlegung
+Diagnostikindustrie und Apotheken weniger tangiert
+In der Diagnostikindustrie und den Apotheken sinddes MRA sehr gering. Bei der Diagnostikindustrie
+zu tun, bestehend aus vorwiegend grösseren Unternehmen.
+alisierung besser umgehen, ähnlich wie dies auchmen der Fall ist. Apotheken beziehen eher Produkte
+satzprodukte verfügbar gewesen sind. Es konntealisierung des MRA zurückgeführt werden, da verschiedene
+sind.
+… jedoch Verlust der schweizerischen
+Konformitätsbewertungsstelle
+Die Konformitätsbewertungsstelle SQS wurde starktroffen. SQS befindet sich derzeit in der Phase-out-Phase
+Medizinprodukte ganz ein. Gemäss eigenen Angabenduktebereich auch dann nicht wieder aufnehmen,
+führt zu einem Verlust an Know-how und hoch entwickelten
+Schweiz in einem hoch innovativen Bereich.
+Erheblicher Mehraufwand der Regulierungsbehörden
+Bei der öffentlichen Hand ist insbesondere Swissmedic
+MRA betroffen. Dabei sind grosse Einbussen in dermerken. Insbesondere hinsichtlich des Wegfalls
+EU-Behörden scheint es bislang keinen adäquaten
+INFRAS | 14. Februar 2025 | Gesamtbeurteilung/Fazit
+
+und sind alle von den grundsätzlich gleibetreffend Verlagerungender Hersteller zu erkennen: Etwa ein Dritgeprüft. Allerdings hat sich die Mehrals Produktionsland entschieden, da andere
+oder eine Standortverlegung für sie zu teuermit ausländischen Tochtergesellschaften
+ins Ausland zu verschieben. Händleran den schweizerischen Markt gebundes Standorts ins Ausland.
+…
+die Auswirkungen der Nicht-Aktualisierunghat dies in erster Linie mit der Marktstruktur
+Diese konnten mit der Nicht-Aktubei den grösseren Medizintechnikunternehtieferer Risikoklassen, wofür einfacher Erindes keine Preiserhöhung auf die Nicht-AktuUmstände gleichzeitig eingetretenvon der Nicht-Aktualisierung des MRA beund stellt seine Tätigkeit im Bereich
+wird SQS ihre Tätigkeit im Medizinprowenn das MRA erneut aktualisiert wird. Diestechnischen Kompetenzen in der
+bei erschwerter Regulierungstätigkeitstark von der Nicht-Aktualisierung des
+Verwaltungseffizienz und -qualität zu beder Zusammenarbeit im Vollzug mit anderen
+Ersatz zu geben. Zudem stellt der Ausschluss
+
+|53
+aus EU-internen Arbeitsgruppen für Swissmedicdadurch ihre Gestaltungsmöglichkeit verliert und
+kann. Aufgrund der Nicht-Aktualisierung des MRA
+dic um CHF 4.6 Mio. erhöht. Dazu addieren sich
+Entwicklung einer eigenen schweizerischen Datenbankkann die Mehrkosten nicht quantifizieren. Unvorhersehbarkeit,
+sätzliche Arbeit bei jeder regulatorischen Anpassungschwierigkeiten, was zu personellen Mehrbelastungen
+tenziell verzögert.
+Begrenzte Effekte der Nicht-Aktualisierung MRA
+Die Nicht-Aktualisierung des MRA hat zu einer gewissenliobereinigungen geführt. So hat ein Teil der befragten
+temporär nicht importiert. Diese Produkte konntendurch Substitutionsprodukte ersetzt werden. Dadurch
+kompensiert werden. Auch die Medizinproduktepreiseder Nicht-Aktualisierung des MRA gestiegen. Mögliche
+wicklungen überlagert wie z. B. die strengere Regulierungauf die Branche, weshalb der genaue Effekt nicht
+Der Medizinproduktemarkt bleibt beeinträchtig,
+Sowohl bei den Unternehmen als auch bei den Regulierungsbehördenche Kosten an. Zudem lassen sich vereinzelt Auswirkungen
+tientenund Versorgungssicherheit feststellen, welchechen Aufwands aufgefangen werden konnten. Jedoch
+Markt für Medizinprodukte und die Regulierungsbehördennota bene unter Inkaufnahme der notwendigen
+anderen Faktoren schmälert dies punktuell die Wettbewerbsfähigkeitzudem mit der Zeit Wege, um die Kosten zu reduzieren,
+sondere kleinere Hersteller von Medizinprodukten,
+INFRAS | 14. Februar 2025 | Gesamtbeurteilung/Fazit
+
+eine Herausforderung dar, da die Schweiznur kurzfristig auf Änderungen reagieren
+haben sich die Personalkosten bei Swissmedie einmaligen Kosten von CHF 6 Mio. für diefür Medizinprodukte. Das BAG hingegen
+komplexere Aufgaben und zuführen beim BAG allerdings zu Planungsführt und andere interne Projekte poauf Versorgungssicherheit und Marktpreise
+Marktkonsolidierung und zu PortfoHändler gewisse Produkte zumindestspätestens mittelfristig jedoch in der Regel
+konnte der Rückgang an Produkten gutsind nicht oder nur schwach aufgrund
+Effekte werden hier von anderen Entoder die Folgen der Corona-Pandemieklar identifiziert werden kann.
+hat sich jedoch arrangiertfallen gewisse zusätzliim Bereich Regulierungsqualität, Pajedoch unter Inkaufnahmen zusätzlihaben sich insgesamt der Schweizer
+mit der neuen Situation arrangiert,
+Mehraufwendungen. Im Zusammenspiel mitder Schweiz. Man fand
+auch wenn für einzelne Akteure, insbeweiterhin relevante Mehrkosten anfallen.
+
+54|
+Annex
+A1. Sample Unternehmensbefragung
+Tabelle 6: Eckdaten Unternehmensbefragung
+Eckwert Ausführung
+Befragungszeitraum Die Befragungen wurden zwischenführt.
+Gesprächsdauer Die Gesprächsdauer lag bei rundgesetzt, um Unternehmen nicht
+lauf zu erhöhen.
+Stichprobengrösse Insgesamt wurden 14 Hersteller
+Wellen 76 Hersteller und 101
+Herstellern folglich rund 18%
+Zusammenstellung Bei der Auswahl der (angefragten)
+zinischen Fachbereiche berücksichtigt.
+men setzt sich wie folgt zusammen:
+Zusammenstellung nach Grössenkategorie
+▪ 14 Hersteller
+▪ 5 kleine Unternehmen mit
+▪ 6 mittlere Unternehmen
+▪ 3 grosse Unternehmen mitangegeben).
+▪ 12 Händler (davon sind 3 auch
+▪ 6 kleine Unternehmen mitben).
+▪ 4 mittlere Unternehmen
+▪ 2 grosse Unternehmen mit
+Zusammenstellung nach Produktekategorie.50
+▪ Hersteller
+▪ 11 Unternehmen produzieren
+▪ 11 Unternehmen produzieren
+▪ 6 Unternehmen produzieren
+▪ Händler
+▪ 10 Unternehmen handeln
+▪ 11 Unternehmen handeln
+▪ 7 Unternehmen handeln
+Tabelle INFRAS.
+50 Unternehmen sind mehrheitlich in mehreren Produktekategorienschiedenen Produkteklassen nicht zu der Gesamtzahl Unternehmen.
+INFRAS | 14. Februar 2025 | Annex
+
+dem 18.10.2024 und dem 12.12.2024 durchge30 Minuten. Diese wurde absichtlich eher tief anmehr als nötig zu belasten und dadurch den Rückund 12 Händler befragt. Hierfür wurde in mehreren
+Händler angefragt. Die Rücklaufquote beträgt bei denund bei den Händlern rund 12%.
+Unternehmen wurden die Grösse sowie die mediDas finale Sample der befragten Unterneh1-49 VZÄ.
+mit 50-249 VZÄ.
+mehr als 250 VZÄ (eines davon hat keine Kostenals Hersteller tätig)
+1-49 VZÄ (eines davon hat keine Kosten angegemit 50-249 VZÄ.
+mehr als 250 VZÄ. – Produkte der Klasse I geringes Risiko. – Produkte der Klasse II mittleres Risiko. – Produkte der Klasse III hohes Risiko. – mit Produkten der Klasse I geringes Risiko. – mit Produkten der Klasse II mittleres Risiko. – mit Produkten der Klasse III hohes Risiko.
+tätig. Folglich addiert sich die Anzahl Unternehmen der ver-
+
+|55
+A2. Liste der interviewten Fachpersonen
+Tabelle 7: Institution, Name und Funktion befragter
+Institution Name
+Swissmedic Dr. Karoline Mathys – Bundesamt für Gesundheit AbteiEdith Luginbühl – lung Biomedizin Sektion HeilmitJulie Degandtelrecht
+SQS Felix Müller
+Swiss Medtech Adrian Hunn
+Daniel Delfosse
+SVDI/ASID | Schweizerischer VerHarald Borrmannband der Diagnostikindustrie
+Noripa AG Hansjörg Riedwyl
+Tabelle INFRAS.
+INFRAS | 14. Februar 2025 | Annex
+
+Fachpersonen
+Funktion
+Badertscher Leiterin Bereich Überwachung Medizinprodukte und Mitglied der Geschäftsleitung
+Leiterin Sektion Heilmittelrecht
+Projektleiterin Bereich Medizinprodukte
+CEO
+Direktor
+Vizedirektor sowie Leiter Regulationund Innovation
+Präsident
+Partner bei Noripa AG und in beratender Funktion bei pharmaSuisse
+
+56|
+Abbildungsverzeichnis
+Abbildung 1: Verteilung der Anzahl Unternehmen
+Medizintechnikbranche_________________________________________________________
+Abbildung 2: Wirkungsmodell mit ersten Wirkungshypothesen
+Abbildung 3: Kosten der Nicht-Aktualisierung des
+Abbildung 4: Boxplot für die Herstellern aufgrunddurchschnittlich entstandenen totalen Kosten_______________________________________
+Abbildung 5: Kosten der Nicht-Aktualisierung des
+Kostenkategorie ______________________________________________________________
+Abbildung 6: Boxplot für die Händler/Importeuredurchschnittlich entstandenen totalen Kosten_______________________________________
+Abbildung 7: Schweizer Produktepreisindex PPI______________________________________
+Abbildung 8: Schweizer Produktepreisindex und deutscher
+Tabellenverzeichnis
+Tabelle 1: Technische Handelshemmnisse nach untersuchten
+Tabelle 2: Kosten pro Umsatz ____________________________________________________
+Tabelle 3: Lagemasse der individuellen Durchschnittskosten
+Tabelle 4: Geschätzte Kostenanteile am EU-Umsatz
+Tabelle 5: Geschätzte Kosten am Import nach Unternehmensgrösse
+Tabelle 6: Eckdaten Unternehmensbefragung _______________________________________
+Tabelle 7: Institution, Name und Funktion befragter
+INFRAS | 14. Februar 2025 | Abbildungsverzeichnis
+
+und Vollzeitäquivalente in der
+_________________________ 12
+MRA pro Hersteller nach Kostenkategorie __ 18
+der Nicht-Aktualisierung des MRA
+MRA pro Händler/Importeur nach
+aufgrund der Nicht-Aktualisierung des MRA
+Erzeugerpreisindex (in CHF) ______ 48
+Wirtschaftsakteuren _________ 14
+___________________________ 30
+nach Unternehmensgrösse Hersteller ____ 31
+Händler/Importeure ____ 32
+Fachpersonen ______________________ 55
+
+|57
+Literatur
+Bundesamt für Gesundheit (BAG), 2021: Bundesratprodukten gewährleisten, Medienmitteilung,
+BAK Economics, 2015: Die mittelund langfristigenlen I auf die Schweizerische Volkswirtschaft
+Bundesamt für Zoll und Grenzsicherheit (BAZG),
+BFS, 2008: NOGA 2008 Allgemeine Systematik der
+Ecoplan, 2025 (in Veröffentlichung): Volkswirtschaftlicheteralen I, Aktualisierung der Ecoplan-Studie
+Ecoplan, 2015: Volkswirtschaftliche Auswirkungenmit einem Mehrländergleichgewichtsmodell. – KOF, 2015: Der bilaterale Weg eine ökonomische
+dies, 58. – Swissmedic, 2023: Merkblatt Pflichten Wirtschaftsakteure
+Swissmedic, 2021: Neue Regulierung der Medizinprodukte
+Swiss Medtech, 2024: Die Schweizer Medizintechnikindustrie
+Swiss Medtech, 2022: Die Schweizer Medizintechnikindustrie
+Swiss Medtech, 2021: Die Schweiz als Drittstaat:
+und Händler im Bereich Rehabilitation.
+51 Unter: https://www. bag. admin. ch/bag/de/home/das-bag/aktuell/medienmitteilungen. msg-id-83581. html#:~:text=Bundesrat%20will%20die%20Versorgung%20mit%20sicheren%20Medizinprodukten%20gew%C3%A4hrleisten,-Der%20Bundesrat&text=Bern%2C%2019.05.2021%20%2D%20Dank, der%20EU%20f%C3%BCr%20Medizinprodukte%20teil.
+INFRAS | 14. Februar 2025 | Literatur
+
+will die Versorgung mit sicheren Medizin19.05.2021. Link51
+Auswirkungen eines Wegfalls der Bilatera2022: Wirtschaftszweige (NOGA) – Wirtschaftszweige Einführung.
+Auswirkungen eines Wegfalls der Bila2015. – eines Wegfalls der Bilateralen I Analyse
+KOF StuBestandsaufnahme, Kapitel 7.
+CH.
+ab 26. Mai 2021. – Branchenstudie 2024. – Branchenstudie 2022.
+Die Auswirkungen für Hersteller, Importeure

@@ -1,76 +1,54 @@
 #!/usr/bin/env python3
-# generate_indexes.py – baut:
-#  - in jedem Top-Level-Ordner eine index.html
-#  - im Root: manifest.json (alle .txt) + index.html + .nojekyll
+# generate_indexes.py – erweitert für 02_Bereinigt_PY & 04_Frontend_PDF
+# - durchsucht rekursiv alle .txt-Dateien (auch in Unterordnern)
+# - ignoriert PDFs, JSONs usw.
+# - baut manifest.json & Indexseiten
 
 import os, json, html
 from pathlib import Path
 from datetime import datetime
 
 ROOT = Path(".").resolve()
-EXTS = [".txt"]  # nur Textdateien listen
-IGNORES = {".git", ".github", ".gitignore", ".nojekyll", "generate_indexes.py"}
 
-def top_level_folders():
-    out = []
-    for p in sorted(ROOT.iterdir()):
-        if p.name in IGNORES: 
+IGNORES = {
+    ".git", ".github", ".gitignore", ".nojekyll", "generate_indexes.py"
+}
+
+# welche Dateiendungen sollen aufgenommen werden
+VALID_EXTS = {".txt"}
+
+def is_valid_file(p: Path) -> bool:
+    return p.is_file() and p.suffix.lower() in VALID_EXTS
+
+def iter_all_txt(root: Path):
+    for p in root.rglob("*"):
+        if any(part in IGNORES for part in p.parts):
             continue
-        if p.is_dir():
-            out.append(p)
-    return out
+        if is_valid_file(p):
+            yield p
 
-def list_txt(folder: Path):
-    return sorted([p for p in folder.iterdir() if p.is_file() and p.suffix.lower() in EXTS])
-
-def write_folder_index(folder: Path):
-    rel = folder.relative_to(ROOT)
-    items = list_txt(folder)
-    lis = []
-    for f in items:
-        label = html.escape(f.name)
-        lis.append(f'<li><a href="./{f.name}" target="_blank">{label}</a></li>')
-    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    html_doc = f"""<!doctype html>
-<html lang="de">
-<meta charset="utf-8">
-<title>Index – {html.escape(str(rel))}</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-  body {{ font-family: system-ui, sans-serif; max-width: 960px; margin: 2rem auto; padding: 0 1rem; }}
-  a.back {{ display:inline-block; margin-bottom: 1rem; }}
-  ul {{ line-height: 1.6; }}
-</style>
-<a class="back" href="../index.html">← Zur Startseite</a>
-<h1>{html.escape(str(rel))}</h1>
-<p>Index für <code>{html.escape(str(rel))}</code> — erstellt am {now}</p>
-<ul>
-{''.join(lis) if lis else '<li><em>Noch keine .txt-Dateien.</em></li>'}
-</ul>
-</html>"""
-    (folder / "index.html").write_text(html_doc, encoding="utf-8")
-    print("Wrote:", folder / "index.html")
-
-def write_manifest(folders):
+def write_manifest():
     rows = []
-    for fld in folders:
-        for f in list_txt(fld):
-            rel = f.relative_to(ROOT).as_posix()
-            rows.append({
-                "category": fld.name,     # z.B. a_Offiziell / b_Pro / c_Contra / d_Gemischt
-                "filename": f.name,
-                "path": rel               # z.B. c_Contra/c_2025-07-14_...
-            })
-    rows.sort(key=lambda r: (r["category"], r["filename"]))
+    for p in iter_all_txt(ROOT):
+        rel = p.relative_to(ROOT).as_posix()
+        parts = rel.split("/")
+        # Kategorie ist zweite Ebene, wenn z.B. 02_Bereinigt_PY/a_Offiziell
+        if len(parts) > 1 and parts[0].startswith("0"):
+            category = parts[1]
+        else:
+            category = parts[0] if parts else ""
+        rows.append({
+            "category": category,
+            "source_folder": parts[0] if parts else "",
+            "filename": p.name,
+            "path": rel
+        })
+    rows.sort(key=lambda r: (r["source_folder"], r["category"], r["path"]))
     out = ROOT / "manifest.json"
     out.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
-    print("Wrote:", out)
+    print(f"Wrote {len(rows)} entries to manifest.json")
 
-def write_root_index(folders):
-    lis = []
-    for fld in folders:
-        name = html.escape(fld.name)
-        lis.append(f'<li><a href="./{name}/index.html">{name}</a></li>')
+def write_root_index():
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     html_doc = f"""<!doctype html>
 <html lang="de">
@@ -79,31 +57,22 @@ def write_root_index(folders):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   body {{ font-family: system-ui, sans-serif; max-width: 980px; margin: 2rem auto; padding: 0 1rem; }}
-  h1 {{ margin: 0 0 .5rem; }}
   ul {{ line-height: 1.6; }}
-  footer {{ color:#666; font-size:.9rem; margin-top:1rem; }}
-  code {{ background:#f3f3f3; padding:2px 4px; border-radius:4px; }}
+  footer {{ color:#666; font-size:.9rem; margin-top:1rem; font-size:0.9rem; }}
 </style>
 <h1>CH–EU Dokumente</h1>
-<p>Startseite (erstellt am {now}). Kategorien:</p>
-<ul>
-{''.join(lis) if lis else '<li><em>Keine Unterordner gefunden.</em></li>'}
-</ul>
-<p>Maschinenlese-Index: <a href="./manifest.json" target="_blank"><code>manifest.json</code></a></p>
-<footer>Hinweis: Neue .txt-Dateien hochladen, dann dieses Skript erneut ausführen und committen.</footer>
+<p>Manifest neu erstellt am {now}.</p>
+<p><a href="./manifest.json" target="_blank">→ manifest.json anzeigen</a></p>
+<footer>Ordnerstruktur bleibt vollständig (01–04).</footer>
 </html>"""
     (ROOT / "index.html").write_text(html_doc, encoding="utf-8")
-    print("Wrote:", ROOT / "index.html")
+    print("Wrote index.html")
 
 def main():
-    folders = top_level_folders()
-    for fld in folders:
-        write_folder_index(fld)
-    # Root-Dateien:
+    # Root-Dateien erzeugen
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
-    print("Wrote:", ROOT / ".nojekyll")
-    write_manifest(folders)
-    write_root_index(folders)
+    write_manifest()
+    write_root_index()
     print("Done.")
 
 if __name__ == "__main__":

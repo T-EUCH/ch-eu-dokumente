@@ -1,332 +1,146 @@
 [
   {
-    "category": "a_Offiziell",
-    "filename": "a_001_Faktenblatt_Institutionelle_Elemente_DE.txt",
-    "path": "a_Offiziell/a_001_Faktenblatt_Institutionelle_Elemente_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_002_Faktenblatt_Staatliche_Beihilfen_DE.txt",
-    "path": "a_Offiziell/a_002_Faktenblatt_Staatliche_Beihilfen_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_003_Faktenblatt_Zuwanderung_DE.txt",
-    "path": "a_Offiziell/a_003_Faktenblatt_Zuwanderung_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_004_Faktenblatt_PFZ_Lohnschutz_DE.txt",
-    "path": "a_Offiziell/a_004_Faktenblatt_PFZ_Lohnschutz_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_005_Faktenblatt_Technische_Handelshemmnisse_MRA_DE.txt",
-    "path": "a_Offiziell/a_005_Faktenblatt_Technische_Handelshemmnisse_MRA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_006_Faktenblatt_Landverkehr_DE.txt",
-    "path": "a_Offiziell/a_006_Faktenblatt_Landverkehr_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_007_Faktenblatt_Luftverkehr_DE.txt",
-    "path": "a_Offiziell/a_007_Faktenblatt_Luftverkehr_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_008_Faktenblatt_Landwirtschaft_und_Lebensmittelsicherheit_DE.txt",
-    "path": "a_Offiziell/a_008_Faktenblatt_Landwirtschaft_und_Lebensmittelsicherheit_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_009_Faktenblatt_EU_Programme_DE.txt",
-    "path": "a_Offiziell/a_009_Faktenblatt_EU_Programme_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_00_Übersicht_Abkommen_Protokolle_und_Erklärungen_DE.txt",
-    "path": "a_Offiziell/a_00_Übersicht_Abkommen_Protokolle_und_Erklärungen_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_010_Faktenblatt_Weltraum_DE.txt",
-    "path": "a_Offiziell/a_010_Faktenblatt_Weltraum_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_011_Faktenblatt_Schweizer_Beitrag_DE.txt",
-    "path": "a_Offiziell/a_011_Faktenblatt_Schweizer_Beitrag_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_012_Faktenblatt_Strom_DE.txt",
-    "path": "a_Offiziell/a_012_Faktenblatt_Strom_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_013_Faktenblatt_Gesundheit_DE.txt",
-    "path": "a_Offiziell/a_013_Faktenblatt_Gesundheit_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_014_Faktenblatt_Struktur_der_Vorlage_und_Referendum_DE.txt",
-    "path": "a_Offiziell/a_014_Faktenblatt_Struktur_der_Vorlage_und_Referendum_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_01_ÄP_FZA_DE.txt",
-    "path": "a_Offiziell/a_01_ÄP_FZA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_02_IP_FZA_DE.txt",
-    "path": "a_Offiziell/a_02_IP_FZA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_03_ÄP_MRA_DE.txt",
-    "path": "a_Offiziell/a_03_ÄP_MRA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_04_IP_MRA_DE.txt",
-    "path": "a_Offiziell/a_04_IP_MRA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_05_ÄP_LandVA_DE.txt",
-    "path": "a_Offiziell/a_05_ÄP_LandVA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_06_IP_LandVA_DE.txt",
-    "path": "a_Offiziell/a_06_IP_LandVA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_07_Prot_st_Beihilfen_LandVA_DE.txt",
-    "path": "a_Offiziell/a_07_Prot_st_Beihilfen_LandVA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_08_ÄP_LuftVA_DE.txt",
-    "path": "a_Offiziell/a_08_ÄP_LuftVA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_09_IP_LuftVA_DE.txt",
-    "path": "a_Offiziell/a_09_IP_LuftVA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_10_Prot_st_Beihilfen_LuftVA_DE.txt",
-    "path": "a_Offiziell/a_10_Prot_st_Beihilfen_LuftVA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_11_ÄP_LwA_DE.txt",
-    "path": "a_Offiziell/a_11_ÄP_LwA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_12_EUPA_DE.txt",
-    "path": "a_Offiziell/a_12_EUPA_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_13_EUSPA_Abkommen_DE.txt",
-    "path": "a_Offiziell/a_13_EUSPA_Abkommen_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_14_Beitragsabkommen_DE.txt",
-    "path": "a_Offiziell/a_14_Beitragsabkommen_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_15_Stromabkommen_DE.txt",
-    "path": "a_Offiziell/a_15_Stromabkommen_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_16_Prot_Lebensmittelsicherheit_DE.txt",
-    "path": "a_Offiziell/a_16_Prot_Lebensmittelsicherheit_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_17_Gesundheitsabkommen_DE.txt",
-    "path": "a_Offiziell/a_17_Gesundheitsabkommen_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_18_Prot_parl_Zusam_DE.txt",
-    "path": "a_Offiziell/a_18_Prot_parl_Zusam_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_19_Gem_Erkl_hochrangiger_Dialog_DE.txt",
-    "path": "a_Offiziell/a_19_Gem_Erkl_hochrangiger_Dialog_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_1_BB_Stabilisierung_DE.txt",
-    "path": "a_Offiziell/a_1_BB_Stabilisierung_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_20250613_Erläuternder_Bericht_DE.txt",
-    "path": "a_Offiziell/a_20250613_Erläuternder_Bericht_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_20250630_Fragenkatalog_FAQ_DE.txt",
-    "path": "a_Offiziell/a_20250630_Fragenkatalog_FAQ_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_20_Gem_Erkl_Umf_Partnershaft_und_Zusammenarbeit_DE.txt",
-    "path": "a_Offiziell/a_20_Gem_Erkl_Umf_Partnershaft_und_Zusammenarbeit_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_2_BB_Weiterentwicklung_Elektrizität_DE.txt",
-    "path": "a_Offiziell/a_2_BB_Weiterentwicklung_Elektrizität_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_3_BB_Weiterentwicklung_Lebensmittelsicherheit_DE.txt",
-    "path": "a_Offiziell/a_3_BB_Weiterentwicklung_Lebensmittelsicherheit_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_4_BB_Weiterentwicklung_Gesundheit_DE.txt",
-    "path": "a_Offiziell/a_4_BB_Weiterentwicklung_Gesundheit_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_5_BB_Protokoll_parlamentarische_Zusammenarbeit_DE.txt",
-    "path": "a_Offiziell/a_5_BB_Protokoll_parlamentarische_Zusammenarbeit_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_6_BB_VK_Kohäsion_DE.txt",
-    "path": "a_Offiziell/a_6_BB_VK_Kohäsion_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_7_BB_VK_Migration_DE.txt",
-    "path": "a_Offiziell/a_7_BB_VK_Migration_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_8_BB_VK_zusätzliche_finanzielle_Verpflichtung_DE.txt",
-    "path": "a_Offiziell/a_8_BB_VK_zusätzliche_finanzielle_Verpflichtung_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_9_BB_VK_Finanzierung_Erasmus_DE.txt",
-    "path": "a_Offiziell/a_9_BB_VK_Finanzierung_Erasmus_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_Ecoplan_RFA_zur_Teilübernahme_der_Unionsbuergerrichtlinie_UBRL_Auswirkungen_auf_die_staatlichen_Institutionen.txt",
-    "path": "a_Offiziell/a_Ecoplan_RFA_zur_Teilübernahme_der_Unionsbuergerrichtlinie_UBRL_Auswirkungen_auf_die_staatlichen_Institutionen.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_Ecoplan_Volkswirtschaftliche_Auswirkungen_eines_Wegfalls_der_Bilateralen_I.txt",
-    "path": "a_Offiziell/a_Ecoplan_Volkswirtschaftliche_Auswirkungen_eines_Wegfalls_der_Bilateralen_I.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_Infras_Vertiefungsstudie_MRA_Fallbeispiel_Medizinprodukte_DE.txt",
-    "path": "a_Offiziell/a_Infras_Vertiefungsstudie_MRA_Fallbeispiel_Medizinprodukte_DE.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_Medienrohstoff_Volkswirtschaftliche_Auswirkungen.txt",
-    "path": "a_Offiziell/a_Medienrohstoff_Volkswirtschaftliche_Auswirkungen.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_StroMA_sb_202506_03ee.txt",
-    "path": "a_Offiziell/a_StroMA_sb_202506_03ee.txt"
-  },
-  {
-    "category": "a_Offiziell",
-    "filename": "a_Übersicht_EU_Gesetzgebungsakte_Paket_CH_EU_1.txt",
-    "path": "a_Offiziell/a_Übersicht_EU_Gesetzgebungsakte_Paket_CH_EU_1.txt"
-  },
-  {
     "category": "b_Pro",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "b_NZZ_20250526_Ständemehr_PRO.txt",
-    "path": "b_Pro/b_NZZ_20250526_Ständemehr_PRO.txt"
+    "path": "02_Bereinigt_PY/b_Pro/b_NZZ_20250526_Ständemehr_PRO.txt"
   },
   {
     "category": "b_Pro",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "b_NZZ_20251015_EU_Verträge_pro.txt",
-    "path": "b_Pro/b_NZZ_20251015_EU_Verträge_pro.txt"
+    "path": "02_Bereinigt_PY/b_Pro/b_NZZ_20251015_EU_Verträge_pro.txt"
   },
   {
     "category": "c_Contra",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "c_NZZ_20250714_Vertrag_EU_CH_Zuwanderung.txt",
-    "path": "c_Contra/c_NZZ_20250714_Vertrag_EU_CH_Zuwanderung.txt"
+    "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250714_Vertrag_EU_CH_Zuwanderung.txt"
   },
   {
     "category": "c_Contra",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "c_NZZ_20250716_CH_EU_Verträge_ständig_aufpassen_sonst_ist_es_zu_spät.txt",
-    "path": "c_Contra/c_NZZ_20250716_CH_EU_Verträge_ständig_aufpassen_sonst_ist_es_zu_spät.txt"
+    "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250716_CH_EU_Verträge_ständig_aufpassen_sonst_ist_es_zu_spät.txt"
   },
   {
     "category": "c_Contra",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "c_NZZ_20250813_Giorgio_Behr_gegen_Verträge.txt",
-    "path": "c_Contra/c_NZZ_20250813_Giorgio_Behr_gegen_Verträge.txt"
+    "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250813_Giorgio_Behr_gegen_Verträge.txt"
   },
   {
     "category": "c_Contra",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "c_NZZ_20250826_Einfluss_EUGh_in_Verträgen.txt",
-    "path": "c_Contra/c_NZZ_20250826_Einfluss_EUGh_in_Verträgen.txt"
+    "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250826_Einfluss_EUGh_in_Verträgen.txt"
   },
   {
     "category": "c_Contra",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "c_NZZ_20250827_EU_Vertrag_Tobias_Straumann_Überblick_gut_eher_nein.txt",
-    "path": "c_Contra/c_NZZ_20250827_EU_Vertrag_Tobias_Straumann_Überblick_gut_eher_nein.txt"
+    "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250827_EU_Vertrag_Tobias_Straumann_Überblick_gut_eher_nein.txt"
   },
   {
     "category": "c_Contra",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "c_NZZ_20250903_CH_Bundesgericht_setzt_EU_Recht_höher_als_Verfassung_Probleme.txt",
-    "path": "c_Contra/c_NZZ_20250903_CH_Bundesgericht_setzt_EU_Recht_höher_als_Verfassung_Probleme.txt"
+    "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250903_CH_Bundesgericht_setzt_EU_Recht_höher_als_Verfassung_Probleme.txt"
   },
   {
     "category": "c_Contra",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "c_NZZ_20250929_EU_Freizügigkeit_Folgen_in_Gelsenkirchen_gut.txt",
-    "path": "c_Contra/c_NZZ_20250929_EU_Freizügigkeit_Folgen_in_Gelsenkirchen_gut.txt"
+    "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250929_EU_Freizügigkeit_Folgen_in_Gelsenkirchen_gut.txt"
   },
   {
     "category": "c_Contra",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "c_NZZ_20251001_EU_Verträge_Martullo_dagegen.txt",
-    "path": "c_Contra/c_NZZ_20251001_EU_Verträge_Martullo_dagegen.txt"
+    "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20251001_EU_Verträge_Martullo_dagegen.txt"
   },
   {
     "category": "c_Contra",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "c_NZZ_20251003_EU_Verträge_Lebensmittel_Strafmassnahmen.txt",
-    "path": "c_Contra/c_NZZ_20251003_EU_Verträge_Lebensmittel_Strafmassnahmen.txt"
+    "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20251003_EU_Verträge_Lebensmittel_Strafmassnahmen.txt"
   },
   {
     "category": "c_Contra",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "c_NZZ_20251013_EU_Verträge_Schneider_Ammann_Contra.txt",
-    "path": "c_Contra/c_NZZ_20251013_EU_Verträge_Schneider_Ammann_Contra.txt"
+    "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20251013_EU_Verträge_Schneider_Ammann_Contra.txt"
   },
   {
     "category": "d_Gemischt",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "d_NZZ_20250614_EU_Überblick.txt",
-    "path": "d_Gemischt/d_NZZ_20250614_EU_Überblick.txt"
+    "path": "02_Bereinigt_PY/d_Gemischt/d_NZZ_20250614_EU_Überblick.txt"
   },
   {
     "category": "d_Gemischt",
+    "source_folder": "02_Bereinigt_PY",
     "filename": "d_NZZ_20250708_Regelwerk_mit_EU_wie_funktioniert_es.txt",
-    "path": "d_Gemischt/d_NZZ_20250708_Regelwerk_mit_EU_wie_funktioniert_es.txt"
+    "path": "02_Bereinigt_PY/d_Gemischt/d_NZZ_20250708_Regelwerk_mit_EU_wie_funktioniert_es.txt"
+  },
+  {
+    "category": "c_Contra",
+    "source_folder": "04_Frontend_PDF",
+    "filename": "c_NZZ_20250714_Vertrag EU CH_Zuwanderung.txt",
+    "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250714_Vertrag EU CH_Zuwanderung.txt"
+  },
+  {
+    "category": "c_Contra",
+    "source_folder": "04_Frontend_PDF",
+    "filename": "c_NZZ_20250716_CH EU Verträge_ständig aufpassen sonst ist es zu spät.txt",
+    "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250716_CH EU Verträge_ständig aufpassen sonst ist es zu spät.txt"
+  },
+  {
+    "category": "c_Contra",
+    "source_folder": "04_Frontend_PDF",
+    "filename": "c_NZZ_20250813_Giorgio Behr_gegen Verträge.txt",
+    "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250813_Giorgio Behr_gegen Verträge.txt"
+  },
+  {
+    "category": "c_Contra",
+    "source_folder": "04_Frontend_PDF",
+    "filename": "c_NZZ_20250826_Einfluss EUGh in Verträgen.txt",
+    "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250826_Einfluss EUGh in Verträgen.txt"
+  },
+  {
+    "category": "c_Contra",
+    "source_folder": "04_Frontend_PDF",
+    "filename": "c_NZZ_20250827_EU Vertrag_Tobias Straumann_Überblick gut_eher nein.txt",
+    "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250827_EU Vertrag_Tobias Straumann_Überblick gut_eher nein.txt"
+  },
+  {
+    "category": "c_Contra",
+    "source_folder": "04_Frontend_PDF",
+    "filename": "c_NZZ_20250903_CH Bundesgericht setzt EU-Recht höher als Verfassung_Probleme.txt",
+    "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250903_CH Bundesgericht setzt EU-Recht höher als Verfassung_Probleme.txt"
+  },
+  {
+    "category": "c_Contra",
+    "source_folder": "04_Frontend_PDF",
+    "filename": "c_NZZ_20250929_EU Freizügigkeit_Folgen in Gelsenkirchen_gut.txt",
+    "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250929_EU Freizügigkeit_Folgen in Gelsenkirchen_gut.txt"
+  },
+  {
+    "category": "c_Contra",
+    "source_folder": "04_Frontend_PDF",
+    "filename": "c_NZZ_20251001_EU Verträge_Martullo dagegen.txt",
+    "path": "04_Frontend_PDF/c_Contra/c_NZZ_20251001_EU Verträge_Martullo dagegen.txt"
+  },
+  {
+    "category": "c_Contra",
+    "source_folder": "04_Frontend_PDF",
+    "filename": "c_NZZ_20251003_EU Verträge_Lebensmittel_ Strafmassnahmen.txt",
+    "path": "04_Frontend_PDF/c_Contra/c_NZZ_20251003_EU Verträge_Lebensmittel_ Strafmassnahmen.txt"
+  },
+  {
+    "category": "c_Contra",
+    "source_folder": "04_Frontend_PDF",
+    "filename": "c_NZZ_20251013_EU Verträge Schneider Ammann Contra.txt",
+    "path": "04_Frontend_PDF/c_Contra/c_NZZ_20251013_EU Verträge Schneider Ammann Contra.txt"
   }
 ]

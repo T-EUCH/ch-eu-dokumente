@@ -1,145 +1,145 @@
 [
   {
-    "category": "b_Pro",
     "source_folder": "02_Bereinigt_PY",
+    "category": "b_Pro",
     "filename": "b_NZZ_20250526_Ständemehr_PRO.txt",
     "path": "02_Bereinigt_PY/b_Pro/b_NZZ_20250526_Ständemehr_PRO.txt"
   },
   {
-    "category": "b_Pro",
     "source_folder": "02_Bereinigt_PY",
+    "category": "b_Pro",
     "filename": "b_NZZ_20251015_EU_Verträge_pro.txt",
     "path": "02_Bereinigt_PY/b_Pro/b_NZZ_20251015_EU_Verträge_pro.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "02_Bereinigt_PY",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250714_Vertrag_EU_CH_Zuwanderung.txt",
     "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250714_Vertrag_EU_CH_Zuwanderung.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "02_Bereinigt_PY",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250716_CH_EU_Verträge_ständig_aufpassen_sonst_ist_es_zu_spät.txt",
     "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250716_CH_EU_Verträge_ständig_aufpassen_sonst_ist_es_zu_spät.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "02_Bereinigt_PY",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250813_Giorgio_Behr_gegen_Verträge.txt",
     "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250813_Giorgio_Behr_gegen_Verträge.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "02_Bereinigt_PY",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250826_Einfluss_EUGh_in_Verträgen.txt",
     "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250826_Einfluss_EUGh_in_Verträgen.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "02_Bereinigt_PY",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250827_EU_Vertrag_Tobias_Straumann_Überblick_gut_eher_nein.txt",
     "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250827_EU_Vertrag_Tobias_Straumann_Überblick_gut_eher_nein.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "02_Bereinigt_PY",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250903_CH_Bundesgericht_setzt_EU_Recht_höher_als_Verfassung_Probleme.txt",
     "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250903_CH_Bundesgericht_setzt_EU_Recht_höher_als_Verfassung_Probleme.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "02_Bereinigt_PY",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250929_EU_Freizügigkeit_Folgen_in_Gelsenkirchen_gut.txt",
     "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20250929_EU_Freizügigkeit_Folgen_in_Gelsenkirchen_gut.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "02_Bereinigt_PY",
+    "category": "c_Contra",
     "filename": "c_NZZ_20251001_EU_Verträge_Martullo_dagegen.txt",
     "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20251001_EU_Verträge_Martullo_dagegen.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "02_Bereinigt_PY",
+    "category": "c_Contra",
     "filename": "c_NZZ_20251003_EU_Verträge_Lebensmittel_Strafmassnahmen.txt",
     "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20251003_EU_Verträge_Lebensmittel_Strafmassnahmen.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "02_Bereinigt_PY",
+    "category": "c_Contra",
     "filename": "c_NZZ_20251013_EU_Verträge_Schneider_Ammann_Contra.txt",
     "path": "02_Bereinigt_PY/c_Contra/c_NZZ_20251013_EU_Verträge_Schneider_Ammann_Contra.txt"
   },
   {
-    "category": "d_Gemischt",
     "source_folder": "02_Bereinigt_PY",
+    "category": "d_Gemischt",
     "filename": "d_NZZ_20250614_EU_Überblick.txt",
     "path": "02_Bereinigt_PY/d_Gemischt/d_NZZ_20250614_EU_Überblick.txt"
   },
   {
-    "category": "d_Gemischt",
     "source_folder": "02_Bereinigt_PY",
+    "category": "d_Gemischt",
     "filename": "d_NZZ_20250708_Regelwerk_mit_EU_wie_funktioniert_es.txt",
     "path": "02_Bereinigt_PY/d_Gemischt/d_NZZ_20250708_Regelwerk_mit_EU_wie_funktioniert_es.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "04_Frontend_PDF",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250714_Vertrag EU CH_Zuwanderung.txt",
     "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250714_Vertrag EU CH_Zuwanderung.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "04_Frontend_PDF",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250716_CH EU Verträge_ständig aufpassen sonst ist es zu spät.txt",
     "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250716_CH EU Verträge_ständig aufpassen sonst ist es zu spät.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "04_Frontend_PDF",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250813_Giorgio Behr_gegen Verträge.txt",
     "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250813_Giorgio Behr_gegen Verträge.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "04_Frontend_PDF",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250826_Einfluss EUGh in Verträgen.txt",
     "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250826_Einfluss EUGh in Verträgen.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "04_Frontend_PDF",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250827_EU Vertrag_Tobias Straumann_Überblick gut_eher nein.txt",
     "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250827_EU Vertrag_Tobias Straumann_Überblick gut_eher nein.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "04_Frontend_PDF",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250903_CH Bundesgericht setzt EU-Recht höher als Verfassung_Probleme.txt",
     "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250903_CH Bundesgericht setzt EU-Recht höher als Verfassung_Probleme.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "04_Frontend_PDF",
+    "category": "c_Contra",
     "filename": "c_NZZ_20250929_EU Freizügigkeit_Folgen in Gelsenkirchen_gut.txt",
     "path": "04_Frontend_PDF/c_Contra/c_NZZ_20250929_EU Freizügigkeit_Folgen in Gelsenkirchen_gut.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "04_Frontend_PDF",
+    "category": "c_Contra",
     "filename": "c_NZZ_20251001_EU Verträge_Martullo dagegen.txt",
     "path": "04_Frontend_PDF/c_Contra/c_NZZ_20251001_EU Verträge_Martullo dagegen.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "04_Frontend_PDF",
+    "category": "c_Contra",
     "filename": "c_NZZ_20251003_EU Verträge_Lebensmittel_ Strafmassnahmen.txt",
     "path": "04_Frontend_PDF/c_Contra/c_NZZ_20251003_EU Verträge_Lebensmittel_ Strafmassnahmen.txt"
   },
   {
-    "category": "c_Contra",
     "source_folder": "04_Frontend_PDF",
+    "category": "c_Contra",
     "filename": "c_NZZ_20251013_EU Verträge Schneider Ammann Contra.txt",
     "path": "04_Frontend_PDF/c_Contra/c_NZZ_20251013_EU Verträge Schneider Ammann Contra.txt"
   }
